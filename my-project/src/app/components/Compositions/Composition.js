@@ -27,7 +27,7 @@ const Composition = props => {
       <Intro title={hero.heroTitle} description={hero.description} />
       <Features />
       <ColorPalette image={hero.image} />
-      {/* <InteractiveImage/> */}
+      <InteractiveImage/>
     </div>
   )
 }
