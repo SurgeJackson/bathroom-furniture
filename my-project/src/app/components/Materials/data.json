@@ -1,0 +1,441 @@
+[
+    {
+        "groupId": 1,
+        "name": "Дерево",
+        "description": "Фасады тумб наших коллекций доступны в отделке из массива дерева в 7 различных цветах. Текстура фасадов из массива дерева получается благодаря поверхностному брашированию. Это позволяет добиться натуральных тактильных ощущений от поверхностей.",
+        "items": [
+            {
+                "id": 1,
+                "name": "Legno Rovere Naturale",
+                "image": "/images/bathroom-furniture/materials/nov/legno_rovere_naturale_50x50_d2.jpg"
+            },
+            {
+                "id": 2,
+                "name": "Legno Rovere Tasso",
+                "image": "/images/bathroom-furniture/materials/nov/legno_rovere_tasso_50x50_d2.jpg"
+            },
+            {
+                "id": 3,
+                "name": "Legno Fumo",
+                "image": "/images/bathroom-furniture/materials/nov/legno_fumo_50x50_d.jpg"
+            },
+            {
+                "id": 4,
+                "name": "Legno Rovere Avena",
+                "image": "/images/bathroom-furniture/materials/nov/legno_rovere_avena_50x50_d2.jpg"
+            },
+            {
+                "id": 5,
+                "name": "Legno Rovere Bianco",
+                "image": "/images/bathroom-furniture/materials/nov/legno_rovere_bianco_26x19_d.jpg"
+            },
+            {
+                "id": 6,
+                "name": "Legno Rovere Brandy",
+                "image": "/images/bathroom-furniture/materials/nov/legno_rovere_brandy_50x50_d.jpg"
+            },
+            {
+                "id": 7,
+                "name": "Legno Rovere Creta",
+                "image": "/images/bathroom-furniture/materials/nov/legno_rovere_creta_50x50_d2.jpg"
+            }
+        ]
+    },
+    {
+        "groupId": 2,
+        "name": "Металл лакированный",
+        "description": "Металлическая отделка – это ручная работа в результате нанесения покрытий, содержащих металлические порошки. Разные порошки дают разные блики, а эффекты сравнимы с железом, сталью и латунью. Доступные варианты отделок: сталь, титан и латунь.",
+        "items": [
+            {
+                "id": 1,
+                "name": "Ottone",
+                "image": "/images/bathroom-furniture/materials/nov/ottone.jpg"
+            },
+            {
+                "id": 2,
+                "name": "Titanio",
+                "image": "/images/bathroom-furniture/materials/nov/titanio.jpg"
+            },
+            {
+                "id": 3,
+                "name": "Acciaio",
+                "image": "/images/bathroom-furniture/materials/nov/acciaio.jpg"
+            }
+        ]
+    },
+    {
+        "groupId": 3,
+        "name": "Шпон меламиновый",
+        "description": "Эффект натурального дерева воспроизводится рядом отделок с меламиновым покрытием из 4 различных пород дерева и цветов, соответствующих нескольким эстетическим линиям и тенденциям.",
+        "items": [
+            {
+                "id": 1,
+                "name": "Kombai smoke",
+                "image": "/images/bathroom-furniture/materials/nov/kombai_smoke.jpg"
+            },
+            {
+                "id": 2,
+                "name": "Kombai tobacco",
+                "image": "/images/bathroom-furniture/materials/nov/kombai_tobacco.jpg"
+            },
+            {
+                "id": 3,
+                "name": "Kombai frost",
+                "image": "/images/bathroom-furniture/materials/nov/kombai_frost.jpg"
+            },
+            {
+                "id": 4,
+                "name": "Kombai sand",
+                "image": "/images/bathroom-furniture/materials/nov/kombai_sand.jpg"
+            }
+        ]
+    },
+    {
+        "groupId": 4,
+        "name": "Лаковое покрытие",
+        "description": "37 лакированных цветов доступны как в глянцевом, так и в матовом исполнении. Этот же оттенок можно использовать не только для лакированных фасадов, но и для стеклянных столешниц, столешниц из литьевого камня и умывальников. Путем подбора и комбинации различных цветов лака можно добиться разнообразных цветвых решений.",
+        "items": [
+            {
+                "id": 1,
+                "name": "zenzero",
+                "image": "/images/bathroom-furniture/materials/nov/zenzero.jpg"
+            },
+            {
+                "id": 2,
+                "name": "zolfo",
+                "image": "/images/bathroom-furniture/materials/nov/zolfo.jpg"
+            },
+            {
+                "id": 3,
+                "name": "antracite",
+                "image": "/images/bathroom-furniture/materials/nov/antracite.jpg"
+            },
+            {
+                "id": 4,
+                "name": "azzurro balena",
+                "image": "/images/bathroom-furniture/materials/nov/azzurro_balena.jpg"
+            },
+            {
+                "id": 5,
+                "name": "beige",
+                "image": "/images/bathroom-furniture/materials/nov/beige.jpg"
+            },
+            {
+                "id": 6,
+                "name": "bianco",
+                "image": "/images/bathroom-furniture/materials/nov/bianco.jpg"
+            },
+            {
+                "id": 7,
+                "name": "blu avio",
+                "image": "/images/bathroom-furniture/materials/nov/blu_avio.jpg"
+            },
+            {
+                "id": 8,
+                "name": "blu laguna",
+                "image": "/images/bathroom-furniture/materials/nov/blu_laguna.jpg"
+            },
+            {
+                "id": 9,
+                "name": "blu oltremare",
+                "image": "/images/bathroom-furniture/materials/nov/blu_oltremare.jpg"
+            },
+            {
+                "id": 10,
+                "name": "brown",
+                "image": "/images/bathroom-furniture/materials/nov/brown.jpg"
+            },
+            {
+                "id": 11,
+                "name": "carta da zucchero",
+                "image": "/images/bathroom-furniture/materials/nov/carta_da_zucchero.jpg"
+            },
+            {
+                "id": 12,
+                "name": "cenere",
+                "image": "/images/bathroom-furniture/materials/nov/cenere.jpg"
+            },
+            {
+                "id": 13,
+                "name": "corda",
+                "image": "/images/bathroom-furniture/materials/nov/corda.jpg"
+            },
+            {
+                "id": 14,
+                "name": "fango",
+                "image": "/images/bathroom-furniture/materials/nov/fango.jpg"
+            },
+            {
+                "id": 15,
+                "name": "grafite",
+                "image": "/images/bathroom-furniture/materials/nov/grafite.jpg"
+            },
+            {
+                "id": 16,
+                "name": "grigio chiaro",
+                "image": "/images/bathroom-furniture/materials/nov/grigio_chiaro.jpg"
+            },
+            {
+                "id": 17,
+                "name": "grigio scuro",
+                "image": "/images/bathroom-furniture/materials/nov/grigio_scuro.jpg"
+            },
+            {
+                "id": 18,
+                "name": "grigio seta",
+                "image": "/images/bathroom-furniture/materials/nov/grigio_seta.jpg"
+            },
+            {
+                "id": 19,
+                "name": "HONEY",
+                "image": "/images/bathroom-furniture/materials/nov/honey.jpg"
+            },
+            {
+                "id": 20,
+                "name": "lava",
+                "image": "/images/bathroom-furniture/materials/nov/lava.jpg"
+            },
+            {
+                "id": 21,
+                "name": "mouse",
+                "image": "/images/bathroom-furniture/materials/nov/mouse.jpg"
+            },
+            {
+                "id": 22,
+                "name": "nero",
+                "image": "/images/bathroom-furniture/materials/nov/nero.jpg"
+            },
+            {
+                "id": 23,
+                "name": "nuvola",
+                "image": "/images/bathroom-furniture/materials/nov/nuvola.jpg"
+            },
+            {
+                "id": 24,
+                "name": "oliva",
+                "image": "/images/bathroom-furniture/materials/nov/oliva.jpg"
+            },
+            {
+                "id": 25,
+                "name": "peltro",
+                "image": "/images/bathroom-furniture/materials/nov/peltro.jpg"
+            },
+            {
+                "id": 26,
+                "name": "pesca",
+                "image": "/images/bathroom-furniture/materials/nov/pesca.jpg"
+            },
+            {
+                "id": 27,
+                "name": "petrolio",
+                "image": "/images/bathroom-furniture/materials/nov/petrolio.jpg"
+            },
+            {
+                "id": 28,
+                "name": "pietra",
+                "image": "/images/bathroom-furniture/materials/nov/pietra.jpg"
+            },
+            {
+                "id": 29,
+                "name": "piombo",
+                "image": "/images/bathroom-furniture/materials/nov/piombo.jpg"
+            },
+            {
+                "id": 30,
+                "name": "platino",
+                "image": "/images/bathroom-furniture/materials/nov/platino.jpg"
+            },
+            {
+                "id": 31,
+                "name": "rosa corallo",
+                "image": "/images/bathroom-furniture/materials/nov/rosa_corallo.jpg"
+            },
+            {
+                "id": 32,
+                "name": "rosso corallo",
+                "image": "/images/bathroom-furniture/materials/nov/rosso_corallo.jpg"
+            },
+            {
+                "id": 33,
+                "name": "sabbia",
+                "image": "/images/bathroom-furniture/materials/nov/sabbia.jpg"
+            },
+            {
+                "id": 34,
+                "name": "terracotta",
+                "image": "/images/bathroom-furniture/materials/nov/terracotta.jpg"
+            },
+            {
+                "id": 35,
+                "name": "tortora",
+                "image": "/images/bathroom-furniture/materials/nov/tortora.jpg"
+            },
+            {
+                "id": 33,
+                "name": "verde salvia",
+                "image": "/images/bathroom-furniture/materials/nov/verde_salvia.jpg"
+            },
+            {
+                "id": 33,
+                "name": "verderame",
+                "image": "/images/bathroom-furniture/materials/nov/verderame.jpg"
+            }
+        ]
+    },
+    {
+        "groupId": 5,
+        "name": "Эко-эмаль",
+        "description": "Специальная технология производства делает эмаль плотной, эластичной и в то же время очень устойчивой к сжатию, что делает этот материал пригодным для изделий очень малой толщины. Его низкая пористость делает его исключительно водонепроницаемым. Еще одной важной особенностью является его химическая стойкость, высокая устойчивость к царапинам и стойкость к глубокому истиранию.",
+        "items": [
+            {
+                "id": 1,
+                "name": "cemento grigio chiaro",
+                "image": "/images/bathroom-furniture/materials/nov/cemento_grigio_chiaro.jpg"
+            },
+            {
+                "id": 2,
+                "name": "cemento grigio scuro",
+                "image": "/images/bathroom-furniture/materials/nov/cemento_grigio_scuro.jpg"
+            },
+            {
+                "id": 3,
+                "name": "cemento beige",
+                "image": "/images/bathroom-furniture/materials/nov/cemento_beige.jpg"
+            },
+            {
+                "id": 4,
+                "name": "cemento bianco",
+                "image": "/images/bathroom-furniture/materials/nov/cemento_bianco.jpg"
+            }
+        ]
+    },
+    {
+        "groupId": 6,
+        "name": "Керамогранит",
+        "description": "Привелекательная отделка из плит ультратонкого керамогранита: устойчивая к ударам и царапинам, водо и маслоотталкивающая, устойчивая к кислотам и воздействию ультрафиолетовых лучей. Поверхности из ультратонкого керамогранита доступны в нескольких цветах, которые не тускнеют со временем. Легко чистятся и гигиеничны, так как не впитывают влагу, плиты натуральные и не содержат токсичных веществ.",
+        "items": [
+            {
+                "id": 1,
+                "name": "statuario bianco venato",
+                "image": "/images/bathroom-furniture/materials/nov/statuario_bianco_venato.jpg"
+            },
+            {
+                "id": 2,
+                "name": "emperador extra",
+                "image": "/images/bathroom-furniture/materials/nov/emperador_extra.jpg"
+            },
+            {
+                "id": 3,
+                "name": "focos sale",
+                "image": "/images/bathroom-furniture/materials/nov/focos_sale.jpg"
+            },
+            {
+                "id": 4,
+                "name": "fokos roccia",
+                "image": "/images/bathroom-furniture/materials/nov/fokos-roccia.jpg"
+            },
+            {
+                "id": 5,
+                "name": "iseo gris",
+                "image": "/images/bathroom-furniture/materials/nov/iseo_gris.jpg"
+            },
+            {
+                "id": 6,
+                "name": "meteora gris",
+                "image": "/images/bathroom-furniture/materials/nov/meteora-gris.jpg"
+            },
+            {
+                "id": 7,
+                "name": "noir desir",
+                "image": "/images/bathroom-furniture/materials/nov/noir_desir.jpg"
+            },
+            {
+                "id": 8,
+                "name": "oxide bianco",
+                "image": "/images/bathroom-furniture/materials/nov/oxide-bianco.jpg"
+            },
+            {
+                "id": 9,
+                "name": "pietra piasentina grigio",
+                "image": "/images/bathroom-furniture/materials/nov/pietra_piasentina_grigio.jpg"
+            },
+            {
+                "id": 10,
+                "name": "pietra piasentina taupe",
+                "image": "/images/bathroom-furniture/materials/nov/pietra_piasentina_taupe.jpg"
+            },
+            {
+                "id": 11,
+                "name": "pietra savoia perla",
+                "image": "/images/bathroom-furniture/materials/nov/pietra_savoia_perla.jpg"
+            },
+            {
+                "id": 12,
+                "name": "pietra di savoia grigia",
+                "image": "/images/bathroom-furniture/materials/nov/pietra_di_savoia_grigia.jpg"
+            },
+            {
+                "id": 13,
+                "name": "pietra di savoia antracite",
+                "image": "/images/bathroom-furniture/materials/nov/pietra-di-savoia-antracite.jpg"
+            },
+            {
+                "id": 14,
+                "name": "porfido marrone",
+                "image": "/images/bathroom-furniture/materials/nov/porfido_marrone.jpg"
+            },
+            {
+                "id": 15,
+                "name": "silk negro",
+                "image": "/images/bathroom-furniture/materials/nov/silk_negro.jpg"
+            } 
+        ]
+    },
+    {
+        "groupId": 7,
+        "name": "Hpl",
+        "description": "Ламинаты высокого давления (HPL) состоят из нескольких слоев бумаги, пропитанных термореактивными смолами и уплотненных совместным воздействием тепла (140/150°C) и высокого давления в течение примерно 40/50 минут. В результате получается стабильный, нереакционноспособный, однородный, непористый продукт с высокой плотностью.",
+        "items": [
+            {
+                "id": 1,
+                "name": "HPL skin",
+                "image": "/images/bathroom-furniture/materials/nov/hpl_skin_1.jpg"
+            },
+            {
+                "id": 2,
+                "name": "HPL Tabacco",
+                "image": "/images/bathroom-furniture/materials/nov/hpl_tabacco_1.jpg"
+            },
+            {
+                "id": 3,
+                "name": "HPL Barrique",
+                "image": "/images/bathroom-furniture/materials/nov/hpl_barrique_1.jpg"
+            },
+            {
+                "id": 4,
+                "name": "HPL Bianco Stone",
+                "image": "/images/bathroom-furniture/materials/nov/hpl_bianco_stone_1.jpg"
+            },
+            {
+                "id": 5,
+                "name": "HPL portland",
+                "image": "/images/bathroom-furniture/materials/nov/hpl_portland_1.jpg"
+            },
+            {
+                "id": 6,
+                "name": "HPL Rovere Bruciato",
+                "image": "/images/bathroom-furniture/materials/nov/hpl_rovere_bruciato_1.jpg"
+            },
+            {
+                "id": 7,
+                "name": "HPL Rovere Monet",
+                "image": "/images/bathroom-furniture/materials/nov/hpl_rovere_monet.jpg"
+            },
+            {
+                "id": 8,
+                "name": "HPL Rovere Naturale",
+                "image": "/images/bathroom-furniture/materials/nov/hpl_rovere_naturale_1.jpg"
+            } 
+        ]
+    }
+]
