@@ -1,5 +1,3 @@
-'use client'
-
 import Slider from '../Slider';
 import Intro from '../Intro';
 import data from '../../data/collections.json';

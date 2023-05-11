@@ -187,7 +187,7 @@ const data = [
 
 const FooterLinks = data.map((obj) => {
   return (
-    <div>
+    <div key={obj.groupId}>
       <Link className="text-[#c8a16e] text-lg hover:text-inherit transition-colors duration-500" href={obj.groupLink} key={obj.groupId}>
         {obj.groupName}
       </Link>

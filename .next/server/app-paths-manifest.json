@@ -1,1 +1,4 @@
-{}
+{
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/bathroom-furniture/[...slug]/page": "app/bathroom-furniture/[...slug]/page.js"
+}
