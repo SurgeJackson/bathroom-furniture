@@ -1,6 +1,6 @@
 import Link from 'next/link';
 
-import { MapPinIcon, PhoneIcon, WrenchIcon, PaintBrushIcon } from '@heroicons/react/24/outline';
+import { MapPinIcon, PhoneIcon, WrenchIcon, PuzzlePieceIcon } from '@heroicons/react/24/outline';
 
 const data = [
   {
@@ -15,7 +15,7 @@ const data = [
       },
       {
         "itemId": "102",
-        "itemName": "Награды",
+        "itemName": "Лучшие кейсы",
         "itemLink": "/about/awards/"
       },
       {
@@ -30,12 +30,12 @@ const data = [
       },
       {
         "itemId": "105",
-        "itemName": "Бутики",
+        "itemName": "Магазины",
         "itemLink": "/support/pickup/"
       },
       {
         "itemId": "106",
-        "itemName": "Официальные дилеры",
+        "itemName": "Партнерская сеть",
         "itemLink": "/support/dealers/"
       }
     ]
@@ -47,7 +47,7 @@ const data = [
     "items": [
       {
         "itemId": "201",
-        "itemName": "Сервисные центры",
+        "itemName": "Сервисный центр",
         "itemLink": "/"
       },
       {
@@ -67,81 +67,81 @@ const data = [
       },
       {
         "itemId": "205",
-        "itemName": "Франчайзинг",
+        "itemName": "Советы по выбору",
         "itemLink": "/"
       },
     ]
   },
   {
     "groupId": "03",
-    "groupName": "Рецепты",
+    "groupName": "Готовые решения",
     "groupLink": "/recipes/",
     "items": [
       {
         "itemId": "301",
-        "itemName": "Первые блюда",
+        "itemName": "Большая ванная комната",
         "itemLink": "/"
       },
       {
         "itemId": "302",
-        "itemName": "Мясо",
+        "itemName": "Средняя ванная комната",
         "itemLink": "/"
       },
       {
         "itemId": "303",
-        "itemName": "Рыба",
+        "itemName": "Компактная ванная комната",
         "itemLink": "/"
       },
       {
         "itemId": "304",
-        "itemName": "Птица",
+        "itemName": 'Квартира "под сдачу"',
         "itemLink": "/"
       },
       {
         "itemId": "305",
-        "itemName": "Гарниры и закуски",
+        "itemName": "Общественная душевая",
         "itemLink": "/"
       },
       {
         "itemId": "306",
-        "itemName": "Выпечка и десерты",
+        "itemName": "Гостевой санузел",
         "itemLink": "/"
       }
     ]
   },
   {
     "groupId": "04",
-    "groupName": "Интернет-бутик",
+    "groupName": "Интернет-магазин",
     "groupLink": "/",
     "items": [
       {
         "itemId": "401",
-        "itemName": "Кухня",
+        "itemName": "Мебель для ванной комнаты",
         "itemLink": "/"
       },
       {
         "itemId": "402",
-        "itemName": "Дом и климат",
+        "itemName": "Смесители",
         "itemLink": "/"
       },
       {
         "itemId": "403",
-        "itemName": "Красота и здоровье",
+        "itemName": "Керамогранит",
         "itemLink": "/"
       },
       {
         "itemId": "404",
-        "itemName": "Аксессуары",
+        "itemName": "Инженерная доска",
         "itemLink": "/"
       },
       {
         "itemId": "405",
-        "itemName": "Советы по выбору",
+        "itemName": "Душевые системы",
         "itemLink": "/"
       },
       {
         "itemId": "406",
-        "itemName": "Архив",
+        "itemName": "Аксессуары",
         "itemLink": "/"
       }
     ]
@@ -153,32 +153,32 @@ const data = [
     "items": [
       {
         "itemId": "501",
-        "itemName": "Чайники",
+        "itemName": "Смесители для раковины",
         "itemLink": "/"
       },
       {
         "itemId": "502",
-        "itemName": "Воздухоочистители",
+        "itemName": "Мебель для ванной комнаты",
         "itemLink": "/"
       },
       {
         "itemId": "503",
-        "itemName": "Соковыжиматели",
+        "itemName": "Ванны",
         "itemLink": "/"
       },
       {
         "itemId": "504",
-        "itemName": "Кофемашины",
+        "itemName": "Душевые ограждения",
         "itemLink": "/"
       },
       {
         "itemId": "505",
-        "itemName": "Блендеры",
+        "itemName": "Раковины",
         "itemLink": "/"
       },
       {
         "itemId": "506",
-        "itemName": "Пылесосы",
+        "itemName": "Унитазы",
         "itemLink": "/"
       }
     ]
@@ -209,27 +209,26 @@ const FooterLinks = data.map((obj) => {
 const Footer = () => {
   return (
     <footer className="w-full bg-[#1f1f21]">
-      <div className="flex flex-wrap gap-5 justify-center items-center w-full py-[40px] px-10 text-center font-extralight">
-        <Link className="relative flex flex-col justify-center items-center overflow-hidden w-[150px] h-[85px] bg-[#454449] rounded-xl hover:brightness-75" href="/support/pickup/">
+      <div className="flex flex-wrap gap-8 justify-center items-center w-full py-[40px] px-10 text-center font-extralight">
+        <Link className="relative flex flex-col justify-center items-center overflow-hidden w-[150px] h-[85px] bg-[#3a3a3e] rounded-xl hover:bg-[#454449] transition-color duration-500" href="/support/pickup/">
           <MapPinIcon className="w-10 h-10 stroke-[0.5]"/>
-          <p className="uppercase text-xs mt-3">Бутики</p>
+          <p className="uppercase text-xs mt-3">Магазины</p>
         </Link>
-        <Link className="relative flex flex-col justify-center items-center overflow-hidden w-[150px] h-[85px] bg-[#454449] rounded-xl hover:brightness-75" href="/support/hotline/">
+        <Link className="relative flex flex-col justify-center items-center overflow-hidden w-[150px] h-[85px] bg-[#3a3a3e] rounded-xl hover:bg-[#454449] transition-color duration-500" href="/support/hotline/">
           <PhoneIcon className="w-10 h-10 stroke-[0.5]" />
-          <p className="uppercase text-xs  mt-3">Служба заботы</p>
+          <p className="uppercase text-xs  mt-3">Горячая линия</p>
         </Link>
-        <Link className="relative flex flex-col justify-center items-center overflow-hidden w-[150px] h-[85px] bg-[#454449] rounded-xl hover:brightness-75" href="/support/">
+        <Link className="relative flex flex-col justify-center items-center overflow-hidden w-[150px] h-[85px] bg-[#3a3a3e] rounded-xl hover:bg-[#454449] transition-color duration-500" href="/support/">
           <WrenchIcon className="w-10 h-10 stroke-[0.5]" />
           <p className="uppercase text-xs mt-3">Сервис</p>
         </Link>
-        <Link className="relative flex flex-col justify-center items-center overflow-hidden w-[150px] h-[85px] bg-[#454449] rounded-xl hover:brightness-75" href="/recipes/">
-          <PaintBrushIcon className="w-10 h-10 stroke-[0.5]" />
-          <p className="uppercase text-xs mt-3">Рецепты</p>
+        <Link className="relative flex flex-col justify-center items-center overflow-hidden w-[150px] h-[85px] bg-[#3a3a3e] rounded-xl hover:bg-[#454449] transition-color duration-500" href="/recipes/">
+          <PuzzlePieceIcon className="w-10 h-10 stroke-[0.5]" />
+          <p className="uppercase text-xs mt-3">Готовые решения</p>
         </Link>
       </div>
 
-
-      <nav className="flex flex-row flex-wrap justify-between gap-10 p-10 text-sm">
+      <nav className="flex flex-row flex-wrap justify-between gap-10 px-16 py-10 text-sm">
         {FooterLinks}
       </nav>
 

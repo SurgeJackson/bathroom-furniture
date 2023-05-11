@@ -945,6 +945,12 @@ video {
 .gap-5 {
   gap: 1.25rem;
 }
+.gap-6 {
+  gap: 1.5rem;
+}
+.gap-8 {
+  gap: 2rem;
+}
 .space-x-10 > :not([hidden]) ~ :not([hidden]) {
   --tw-space-x-reverse: 0;
   margin-right: calc(2.5rem * var(--tw-space-x-reverse));
@@ -1212,6 +1218,18 @@ video {
 .py-\[50px\] {
   padding-top: 50px;
   padding-bottom: 50px;
+}
+.px-20 {
+  padding-left: 5rem;
+  padding-right: 5rem;
+}
+.py-10 {
+  padding-top: 2.5rem;
+  padding-bottom: 2.5rem;
+}
+.px-16 {
+  padding-left: 4rem;
+  padding-right: 4rem;
 }
 .pb-0 {
   padding-bottom: 0px;
@@ -1735,6 +1753,16 @@ body {
 .hover\:bg-gray-100:hover {
   --tw-bg-opacity: 1;
   background-color: rgb(243 244 246 / var(--tw-bg-opacity));
+}
+
+.hover\:bg-\[\#3a3a3e\]:hover {
+  --tw-bg-opacity: 1;
+  background-color: rgb(58 58 62 / var(--tw-bg-opacity));
+}
+
+.hover\:bg-\[\#454449\]:hover {
+  --tw-bg-opacity: 1;
+  background-color: rgb(69 68 73 / var(--tw-bg-opacity));
 }
 
 .hover\:text-inherit:hover {

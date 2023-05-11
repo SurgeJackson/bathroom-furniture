@@ -137,10 +137,10 @@ const data = [
 const ModulesGroups = data.map((obj) => {
     return (
         <div key={obj.groupId}>
-            <div className="text-3xl text-[#c8a16e] uppercase p-5">
+            <div className="text-xl md:text-2xl text-center p-5 font-extralight tracking-widest uppercase text-[#c8a16e]">
                 {obj.name}
             </div>
-            <div className="text-left pl-5 pr-5">
+            <div className="text-lg md:text-xl pb-5 px-10 text-left font-extralight md:max-w-[75%] w-[90%] leading-relaxed md:leading-relaxed space-y-5 mb-10">
                 {obj.description}
             </div>
             <div className="spotlight-group flex flex-row flex-wrap justify-center m-2 gap-1">
