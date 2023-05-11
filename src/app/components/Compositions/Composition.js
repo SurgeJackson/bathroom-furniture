@@ -11,7 +11,7 @@ import CompositionProducts from './CompositionProducts';
 const Composition = props => {
   const hero = data.find((collection) => {
     return (collection.collectionId == props.params.slug[0]);
-  }).compositions.find((composition) => {
+  })?.compositions.find((composition) => {
     return (composition.compositionId == props.params.slug[1]);
   });
 
