@@ -12,16 +12,22 @@
       "static/css/app/bathroom-furniture/layout.css",
       "static/chunks/app/bathroom-furniture/layout.js"
     ],
-    "/loading": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/loading.js"
-    ],
     "/layout": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
       "static/css/app/layout.css",
       "static/chunks/app/layout.js"
+    ],
+    "/loading": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/loading.js"
+    ],
+    "/bathroom-furniture/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/bathroom-furniture/page.css",
+      "static/chunks/app/bathroom-furniture/page.js"
     ]
   }
 }
