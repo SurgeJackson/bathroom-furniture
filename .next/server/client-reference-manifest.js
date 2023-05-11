@@ -3802,20 +3802,6 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/Volumes/SAY/WORK/dev/next-js-example/my-project/src/app/globals.css#": {
-      "id": "null",
-      "name": "default",
-      "chunks": [
-        "static/css/app/layout.css"
-      ]
-    },
-    "/Volumes/SAY/WORK/dev/next-js-example/my-project/node_modules/next/font/google/target.css?{\"path\":\"src/app/layout.js\",\"import\":\"Montserrat\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"montserrat\"}#": {
-      "id": "null",
-      "name": "default",
-      "chunks": [
-        "static/css/app/layout.css"
-      ]
-    },
     "/Volumes/SAY/WORK/dev/next-js-example/my-project/src/app/loading.js": {
       "id": "(app-client)/./src/app/loading.js",
       "name": "*",
@@ -3839,6 +3825,20 @@ self.__RSC_MANIFEST={
         "app/loading:static/chunks/app/loading.js"
       ],
       "async": false
+    },
+    "/Volumes/SAY/WORK/dev/next-js-example/my-project/src/app/globals.css#": {
+      "id": "null",
+      "name": "default",
+      "chunks": [
+        "static/css/app/layout.css"
+      ]
+    },
+    "/Volumes/SAY/WORK/dev/next-js-example/my-project/node_modules/next/font/google/target.css?{\"path\":\"src/app/layout.js\",\"import\":\"Montserrat\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"montserrat\"}#": {
+      "id": "null",
+      "name": "default",
+      "chunks": [
+        "static/css/app/layout.css"
+      ]
     }
   }
 }

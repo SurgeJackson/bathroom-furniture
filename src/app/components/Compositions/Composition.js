@@ -1,6 +1,6 @@
 import Slider from '../Slider';
 import Intro from '../Intro';
-import data from '../../data/collections.json';
+import data from './../../data/collections.json';
 import Features from '../Features/Features';
 import ColorPalette from './ColorPalette';
 import InteractiveImage from '../InteractiveImage/InteractiveImage';
