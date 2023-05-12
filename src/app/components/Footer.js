@@ -209,22 +209,30 @@ const FooterLinks = data.map((obj) => {
 const Footer = () => {
   return (
     <footer className="w-full bg-[#1f1f21]">
+      <section className="w-full text-center py-[41px] border-b-[1px] border-solid border-[#ffffff1a]">
+          <p className="text-2xl hover:text-white transition-colors duration-500">
+            <Link href="tel:88008000000">
+              8 800 800 00 00
+            </Link>
+          </p>
+      </section>
+
       <div className="flex flex-wrap gap-8 justify-center items-center w-full py-[40px] px-10 text-center font-extralight">
-        <Link className="relative flex flex-col justify-center items-center overflow-hidden w-[150px] h-[85px] bg-[#3a3a3e] rounded-xl hover:bg-[#454449] transition-color duration-500" href="/support/pickup/">
-          <MapPinIcon className="w-10 h-10 stroke-[0.5]"/>
-          <p className="uppercase text-xs mt-3">Магазины</p>
+        <Link className="relative flex flex-col justify-center items-center overflow-hidden w-[160px] h-[85px] bg-[#3a3a3e] rounded-xl hover:bg-[#454449] transition-color duration-500" href="/support/pickup/">
+          <MapPinIcon className="w-10 h-10 stroke-[0.5]" />
+          <p className="uppercase text-[10px] tracking-widest mt-3">Магазины</p>
         </Link>
-        <Link className="relative flex flex-col justify-center items-center overflow-hidden w-[150px] h-[85px] bg-[#3a3a3e] rounded-xl hover:bg-[#454449] transition-color duration-500" href="/support/hotline/">
+        <Link className="relative flex flex-col justify-center items-center overflow-hidden w-[160px] h-[85px] bg-[#3a3a3e] rounded-xl hover:bg-[#454449] transition-color duration-500" href="/support/hotline/">
           <PhoneIcon className="w-10 h-10 stroke-[0.5]" />
-          <p className="uppercase text-xs  mt-3">Горячая линия</p>
+          <p className="uppercase text-[10px] tracking-widest mt-3">Горячая линия</p>
         </Link>
-        <Link className="relative flex flex-col justify-center items-center overflow-hidden w-[150px] h-[85px] bg-[#3a3a3e] rounded-xl hover:bg-[#454449] transition-color duration-500" href="/support/">
+        <Link className="relative flex flex-col justify-center items-center overflow-hidden w-[160px] h-[85px] bg-[#3a3a3e] rounded-xl hover:bg-[#454449] transition-color duration-500" href="/support/">
           <WrenchIcon className="w-10 h-10 stroke-[0.5]" />
-          <p className="uppercase text-xs mt-3">Сервис</p>
+          <p className="uppercase text-[10px] tracking-widest mt-3">Сервис</p>
         </Link>
-        <Link className="relative flex flex-col justify-center items-center overflow-hidden w-[150px] h-[85px] bg-[#3a3a3e] rounded-xl hover:bg-[#454449] transition-color duration-500" href="/recipes/">
+        <Link className="relative flex flex-col justify-center items-center overflow-hidden w-[160px] h-[85px] bg-[#3a3a3e] rounded-xl hover:bg-[#454449] transition-color duration-500" href="/recipes/">
           <PuzzlePieceIcon className="w-10 h-10 stroke-[0.5]" />
-          <p className="uppercase text-xs mt-3">Готовые решения</p>
+          <p className="uppercase text-[10px] tracking-widest mt-3">Готовые решения</p>
         </Link>
       </div>
 

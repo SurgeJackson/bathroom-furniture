@@ -14,7 +14,7 @@ const Header = () => {
 
   return (
     <SideMenuContext.Provider value={{isOpen, setIsOpen}}>
-      <header className="bg-[#2e2826cc] fixed w-full grid grid-cols-3 h-[60px] pt-1 pb-1 before:absolute before:bg-gradient-to-r from-[#ffffff00] via-[#ffffff80] to-[#ffffff00]] before:h-[1px] before:right-0 before:left-0 before:bottom-0 z-[999] hover:bg-[#3a3330] transition-all duration-200 shadow-md">
+      <header className="bg-[#1f1f21cc] fixed w-full grid grid-cols-3 h-[60px] pt-1 pb-1 before:absolute before:bg-gradient-to-r from-[#ffffff00] via-[#ffffff80] to-[#ffffff00]] before:h-[1px] before:right-0 before:left-0 before:bottom-0 z-[999] hover:bg-[#1f1f21] transition-all duration-200 shadow-md">
         <HeaderLeft />
         <HeaderCenter />
         <HeaderRight />

@@ -7,37 +7,37 @@
             {
                 "id": 1,
                 "name": "Legno Rovere Naturale",
-                "image": "/images/bathroom-furniture/materials/nov/legno_rovere_naturale_50x50_d2.jpg"
+                "image": "/images/bathroom-furniture/materials/nov/legno_rovere_naturale.jpg"
             },
             {
                 "id": 2,
                 "name": "Legno Rovere Tasso",
-                "image": "/images/bathroom-furniture/materials/nov/legno_rovere_tasso_50x50_d2.jpg"
+                "image": "/images/bathroom-furniture/materials/nov/legno_rovere_tasso.jpg"
             },
             {
                 "id": 3,
                 "name": "Legno Fumo",
-                "image": "/images/bathroom-furniture/materials/nov/legno_fumo_50x50_d.jpg"
+                "image": "/images/bathroom-furniture/materials/nov/legno_fumo.jpg"
             },
             {
                 "id": 4,
                 "name": "Legno Rovere Avena",
-                "image": "/images/bathroom-furniture/materials/nov/legno_rovere_avena_50x50_d2.jpg"
+                "image": "/images/bathroom-furniture/materials/nov/legno_rovere_avena.jpg"
             },
             {
                 "id": 5,
                 "name": "Legno Rovere Bianco",
-                "image": "/images/bathroom-furniture/materials/nov/legno_rovere_bianco_26x19_d.jpg"
+                "image": "/images/bathroom-furniture/materials/nov/legno_rovere_bianco.jpg"
             },
             {
                 "id": 6,
                 "name": "Legno Rovere Brandy",
-                "image": "/images/bathroom-furniture/materials/nov/legno_rovere_brandy_50x50_d.jpg"
+                "image": "/images/bathroom-furniture/materials/nov/legno_rovere_brandy.jpg"
             },
             {
                 "id": 7,
                 "name": "Legno Rovere Creta",
-                "image": "/images/bathroom-furniture/materials/nov/legno_rovere_creta_50x50_d2.jpg"
+                "image": "/images/bathroom-furniture/materials/nov/legno_rovere_creta.jpg"
             }
         ]
     },
