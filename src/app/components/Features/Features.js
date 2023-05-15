@@ -1,4 +1,3 @@
-'use client'
 import FeatureFigure from './FeatureFigure';
 
 const data = [

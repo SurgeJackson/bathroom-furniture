@@ -8,7 +8,7 @@ import { AnimatePresence, motion } from "framer-motion";
 const data = [
   {
     "image": "https://st.bork.ru/images/catalog/blur/kitchen.jpg",
-    "caption": "Мебель для ванной комнаты"
+    "caption": "Мебель для ванной"
   },
   {
     "image": "https://st.bork.ru/images/catalog/blur/home-and-climate.jpg",
@@ -43,7 +43,7 @@ const data = [
     "caption": "Аксессуары"
   },
   {
-    "image": "https://st.bork.ru/images/catalog/blur/kit.jpg",
+    "image": "/images/menu/blur/dz10-blur.jpg",
     "caption": "Душевые кабины"
   },
 ];

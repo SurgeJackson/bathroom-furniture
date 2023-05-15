@@ -1,5 +1,3 @@
-"use client"
-
 import CollectionFigure from './CollectionFigure'
 import data from './../../data/collections.json'
 

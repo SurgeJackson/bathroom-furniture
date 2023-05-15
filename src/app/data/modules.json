@@ -1,0 +1,184 @@
+[
+    {
+        "moduleId":"01",
+        "moduleGroupId":"01",
+        "collectionId":"d-art",
+        "article":"D001",
+        "name":"Тумба под раковину 80см",
+        "description":"Тумба под раковину 80см с двумя ящиками",
+        "image":"image01",
+        "materials": [
+            {
+                "moduleMaterialId":"01",
+                "moduleMaterialType":"BaseMaterial"
+            }
+        ],
+        "prices": [
+            {
+                "materialCategoryId":"1",
+                "price":110
+            },
+            {
+                "materialCategoryId":"2",
+                "price":120
+            },
+            {
+                "materialCategoryId":"3",
+                "price":130
+            }
+        ]
+    },
+    {
+        "moduleId":"02",
+        "moduleGroupId":"01",
+        "collectionId":"d-art",
+        "article":"D002",
+        "name":"Тумба под раковину 90см",
+        "description":"Тумба под раковину 90см с двумя ящиками",
+        "image":"image02",
+        "materials": [
+            {
+                "moduleMaterialId":"01",
+                "moduleMaterialType":"BaseMaterial"
+            }
+        ],
+        "prices": [
+            {
+                "materialCategoryId":"1",
+                "price":210
+            },
+            {
+                "materialCategoryId":"2",
+                "price":220
+            },
+            {
+                "materialCategoryId":"3",
+                "price":230
+            }
+        ]
+    },
+    {
+        "moduleId":"03",
+        "moduleGroupId":"02",
+        "collectionId":"d-art",
+        "article":"D022",
+        "name":"Тумба боковая 90см",
+        "description":"Тумба боковая 90см с двумя ящиками",
+        "image":"image03",
+        "materials": [
+            {
+                "moduleMaterialId":"01",
+                "moduleMaterialType":"BaseMaterial"
+            }
+        ],
+        "prices": [
+            {
+                "materialCategoryId":"1",
+                "price":220
+            },
+            {
+                "materialCategoryId":"2",
+                "price":230
+            },
+            {
+                "materialCategoryId":"3",
+                "price":240
+            }
+        ]
+    },
+    {
+        "moduleId":"04",
+        "moduleGroupId":"03",
+        "collectionId":"d-art",
+        "article":"D031",
+        "name":"Пенал 90см",
+        "description":"Пенал 90см с тремя ящиками",
+        "image":"image04",
+        "materials": [
+            {
+                "moduleMaterialId":"01",
+                "moduleMaterialType":"BaseMaterial"
+            }
+        ],
+        "prices": [
+            {
+                "materialCategoryId":"1",
+                "price":310
+            },
+            {
+                "materialCategoryId":"2",
+                "price":320
+            },
+            {
+                "materialCategoryId":"3",
+                "price":330
+            }
+        ]
+    },
+    {
+        "moduleId":"05",
+        "moduleGroupId":"03",
+        "collectionId":"d-art",
+        "article":"D033",
+        "name":"Пенал 110см",
+        "description":"Пенал 110см с тремя ящиками",
+        "image":"image05",
+        "materials": [
+            {
+                "moduleMaterialId":"01",
+                "moduleMaterialType":"BaseMaterial"
+            },
+            {
+                "moduleMaterialId":"02",
+                "moduleMaterialType":"AdditionalMaterial"
+            }
+        ],
+        "prices": [
+            {
+                "materialCategoryId":"1",
+                "price":410
+            },
+            {
+                "materialCategoryId":"2",
+                "price":420
+            },
+            {
+                "materialCategoryId":"3",
+                "price":430
+            }
+        ]
+    },
+    {
+        "moduleId":"06",
+        "moduleGroupId":"04",
+        "collectionId":"d-art",
+        "article":"D043",
+        "name":"Зеркало 110см",
+        "description":"Зеркало 110см с LED подсветкой",
+        "image":"image06",
+        "materials": [
+            {
+                "moduleMaterialId":"01",
+                "moduleMaterialType":"BaseMaterial"
+            },
+            {
+                "moduleMaterialId":"02",
+                "moduleMaterialType":"AdditionalMaterial"
+            }
+        ],
+        "prices": [
+            {
+                "materialCategoryId":"1",
+                "price":610
+            },
+            {
+                "materialCategoryId":"2",
+                "price":620
+            },
+            {
+                "materialCategoryId":"3",
+                "price":630
+            }
+        ]
+    }
+]
