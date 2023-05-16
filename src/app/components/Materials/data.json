@@ -6,36 +6,57 @@
         "items": [
             {
                 "id": 1,
+                "materialGroup": {
+                    "$oid": "646283a688646e3987815813"
+                },
                 "name": "Legno Rovere Naturale",
                 "image": "/images/bathroom-furniture/materials/nov/legno_rovere_naturale.jpg"
             },
             {
                 "id": 2,
+                "materialGroup": {
+                    "$oid": "646283a688646e3987815813"
+                },
                 "name": "Legno Rovere Tasso",
                 "image": "/images/bathroom-furniture/materials/nov/legno_rovere_tasso.jpg"
             },
             {
                 "id": 3,
+                "materialGroup": {
+                    "$oid": "646283a688646e3987815813"
+                },
                 "name": "Legno Fumo",
                 "image": "/images/bathroom-furniture/materials/nov/legno_fumo.jpg"
             },
             {
                 "id": 4,
+                "materialGroup": {
+                    "$oid": "646283a688646e3987815813"
+                },
                 "name": "Legno Rovere Avena",
                 "image": "/images/bathroom-furniture/materials/nov/legno_rovere_avena.jpg"
             },
             {
                 "id": 5,
+                "materialGroup": {
+                    "$oid": "646283a688646e3987815813"
+                },
                 "name": "Legno Rovere Bianco",
                 "image": "/images/bathroom-furniture/materials/nov/legno_rovere_bianco.jpg"
             },
             {
                 "id": 6,
+                "materialGroup": {
+                    "$oid": "646283a688646e3987815813"
+                },
                 "name": "Legno Rovere Brandy",
                 "image": "/images/bathroom-furniture/materials/nov/legno_rovere_brandy.jpg"
             },
             {
                 "id": 7,
+                "materialGroup": {
+                    "$oid": "646283a688646e3987815813"
+                },
                 "name": "Legno Rovere Creta",
                 "image": "/images/bathroom-furniture/materials/nov/legno_rovere_creta.jpg"
             }
@@ -48,16 +69,25 @@
         "items": [
             {
                 "id": 1,
+                "materialGroup": {
+                    "$oid": "646283bc88646e3987815815"
+                },
                 "name": "Ottone",
                 "image": "/images/bathroom-furniture/materials/nov/ottone.jpg"
             },
             {
                 "id": 2,
+                "materialGroup": {
+                    "$oid": "646283bc88646e3987815815"
+                },
                 "name": "Titanio",
                 "image": "/images/bathroom-furniture/materials/nov/titanio.jpg"
             },
             {
                 "id": 3,
+                "materialGroup": {
+                    "$oid": "646283bc88646e3987815815"
+                },
                 "name": "Acciaio",
                 "image": "/images/bathroom-furniture/materials/nov/acciaio.jpg"
             }
@@ -70,21 +100,33 @@
         "items": [
             {
                 "id": 1,
+                "materialGroup": {
+                    "$oid": "646283cf88646e3987815817"
+                },
                 "name": "Kombai smoke",
                 "image": "/images/bathroom-furniture/materials/nov/kombai_smoke.jpg"
             },
             {
                 "id": 2,
+                "materialGroup": {
+                    "$oid": "646283cf88646e3987815817"
+                },
                 "name": "Kombai tobacco",
                 "image": "/images/bathroom-furniture/materials/nov/kombai_tobacco.jpg"
             },
             {
                 "id": 3,
+                "materialGroup": {
+                    "$oid": "646283cf88646e3987815817"
+                },
                 "name": "Kombai frost",
                 "image": "/images/bathroom-furniture/materials/nov/kombai_frost.jpg"
             },
             {
                 "id": 4,
+                "materialGroup": {
+                    "$oid": "646283cf88646e3987815817"
+                },
                 "name": "Kombai sand",
                 "image": "/images/bathroom-furniture/materials/nov/kombai_sand.jpg"
             }
@@ -97,186 +139,297 @@
         "items": [
             {
                 "id": 1,
+                "materialGroup": {
+                    "$oid": "646283e188646e3987815819"
+                },
                 "name": "zenzero",
                 "image": "/images/bathroom-furniture/materials/nov/zenzero.jpg"
             },
             {
                 "id": 2,
+                "materialGroup": {
+                    "$oid": "646283e188646e3987815819"
+                },
                 "name": "zolfo",
                 "image": "/images/bathroom-furniture/materials/nov/zolfo.jpg"
             },
             {
                 "id": 3,
+                "materialGroup": {
+                    "$oid": "646283e188646e3987815819"
+                },
                 "name": "antracite",
                 "image": "/images/bathroom-furniture/materials/nov/antracite.jpg"
             },
             {
                 "id": 4,
+                "materialGroup": {
+                    "$oid": "646283e188646e3987815819"
+                },
                 "name": "azzurro balena",
                 "image": "/images/bathroom-furniture/materials/nov/azzurro_balena.jpg"
             },
             {
                 "id": 5,
+                "materialGroup": {
+                    "$oid": "646283e188646e3987815819"
+                },
                 "name": "beige",
                 "image": "/images/bathroom-furniture/materials/nov/beige.jpg"
             },
             {
                 "id": 6,
+                "materialGroup": {
+                    "$oid": "646283e188646e3987815819"
+                },
                 "name": "bianco",
                 "image": "/images/bathroom-furniture/materials/nov/bianco.jpg"
             },
             {
                 "id": 7,
+                "materialGroup": {
+                    "$oid": "646283e188646e3987815819"
+                },
                 "name": "blu avio",
                 "image": "/images/bathroom-furniture/materials/nov/blu_avio.jpg"
             },
             {
                 "id": 8,
+                "materialGroup": {
+                    "$oid": "646283e188646e3987815819"
+                },
                 "name": "blu laguna",
                 "image": "/images/bathroom-furniture/materials/nov/blu_laguna.jpg"
             },
             {
                 "id": 9,
+                "materialGroup": {
+                    "$oid": "646283e188646e3987815819"
+                },
                 "name": "blu oltremare",
                 "image": "/images/bathroom-furniture/materials/nov/blu_oltremare.jpg"
             },
             {
                 "id": 10,
+                "materialGroup": {
+                    "$oid": "646283e188646e3987815819"
+                },
                 "name": "brown",
                 "image": "/images/bathroom-furniture/materials/nov/brown.jpg"
             },
             {
                 "id": 11,
+                "materialGroup": {
+                    "$oid": "646283e188646e3987815819"
+                },
                 "name": "carta da zucchero",
                 "image": "/images/bathroom-furniture/materials/nov/carta_da_zucchero.jpg"
             },
             {
                 "id": 12,
+                "materialGroup": {
+                    "$oid": "646283e188646e3987815819"
+                },
                 "name": "cenere",
                 "image": "/images/bathroom-furniture/materials/nov/cenere.jpg"
             },
             {
                 "id": 13,
+                "materialGroup": {
+                    "$oid": "646283e188646e3987815819"
+                },
                 "name": "corda",
                 "image": "/images/bathroom-furniture/materials/nov/corda.jpg"
             },
             {
                 "id": 14,
+                "materialGroup": {
+                    "$oid": "646283e188646e3987815819"
+                },
                 "name": "fango",
                 "image": "/images/bathroom-furniture/materials/nov/fango.jpg"
             },
             {
                 "id": 15,
+                "materialGroup": {
+                    "$oid": "646283e188646e3987815819"
+                },
                 "name": "grafite",
                 "image": "/images/bathroom-furniture/materials/nov/grafite.jpg"
             },
             {
                 "id": 16,
+                "materialGroup": {
+                    "$oid": "646283e188646e3987815819"
+                },
                 "name": "grigio chiaro",
                 "image": "/images/bathroom-furniture/materials/nov/grigio_chiaro.jpg"
             },
             {
                 "id": 17,
+                "materialGroup": {
+                    "$oid": "646283e188646e3987815819"
+                },
                 "name": "grigio scuro",
                 "image": "/images/bathroom-furniture/materials/nov/grigio_scuro.jpg"
             },
             {
                 "id": 18,
+                "materialGroup": {
+                    "$oid": "646283e188646e3987815819"
+                },
                 "name": "grigio seta",
                 "image": "/images/bathroom-furniture/materials/nov/grigio_seta.jpg"
             },
             {
                 "id": 19,
+                "materialGroup": {
+                    "$oid": "646283e188646e3987815819"
+                },
                 "name": "HONEY",
                 "image": "/images/bathroom-furniture/materials/nov/honey.jpg"
             },
             {
                 "id": 20,
+                "materialGroup": {
+                    "$oid": "646283e188646e3987815819"
+                },
                 "name": "lava",
                 "image": "/images/bathroom-furniture/materials/nov/lava.jpg"
             },
             {
                 "id": 21,
+                "materialGroup": {
+                    "$oid": "646283e188646e3987815819"
+                },
                 "name": "mouse",
                 "image": "/images/bathroom-furniture/materials/nov/mouse.jpg"
             },
             {
                 "id": 22,
+                "materialGroup": {
+                    "$oid": "646283e188646e3987815819"
+                },
                 "name": "nero",
                 "image": "/images/bathroom-furniture/materials/nov/nero.jpg"
             },
             {
                 "id": 23,
+                "materialGroup": {
+                    "$oid": "646283e188646e3987815819"
+                },
                 "name": "nuvola",
                 "image": "/images/bathroom-furniture/materials/nov/nuvola.jpg"
             },
             {
                 "id": 24,
+                "materialGroup": {
+                    "$oid": "646283e188646e3987815819"
+                },
                 "name": "oliva",
                 "image": "/images/bathroom-furniture/materials/nov/oliva.jpg"
             },
             {
                 "id": 25,
+                "materialGroup": {
+                    "$oid": "646283e188646e3987815819"
+                },
                 "name": "peltro",
                 "image": "/images/bathroom-furniture/materials/nov/peltro.jpg"
             },
             {
                 "id": 26,
+                "materialGroup": {
+                    "$oid": "646283e188646e3987815819"
+                },
                 "name": "pesca",
                 "image": "/images/bathroom-furniture/materials/nov/pesca.jpg"
             },
             {
                 "id": 27,
+                "materialGroup": {
+                    "$oid": "646283e188646e3987815819"
+                },
                 "name": "petrolio",
                 "image": "/images/bathroom-furniture/materials/nov/petrolio.jpg"
             },
             {
                 "id": 28,
+                "materialGroup": {
+                    "$oid": "646283e188646e3987815819"
+                },
                 "name": "pietra",
                 "image": "/images/bathroom-furniture/materials/nov/pietra.jpg"
             },
             {
                 "id": 29,
+                "materialGroup": {
+                    "$oid": "646283e188646e3987815819"
+                },
                 "name": "piombo",
                 "image": "/images/bathroom-furniture/materials/nov/piombo.jpg"
             },
             {
                 "id": 30,
+                "materialGroup": {
+                    "$oid": "646283e188646e3987815819"
+                },
                 "name": "platino",
                 "image": "/images/bathroom-furniture/materials/nov/platino.jpg"
             },
             {
                 "id": 31,
+                "materialGroup": {
+                    "$oid": "646283e188646e3987815819"
+                },
                 "name": "rosa corallo",
                 "image": "/images/bathroom-furniture/materials/nov/rosa_corallo.jpg"
             },
             {
                 "id": 32,
+                "materialGroup": {
+                    "$oid": "646283e188646e3987815819"
+                },
                 "name": "rosso corallo",
                 "image": "/images/bathroom-furniture/materials/nov/rosso_corallo.jpg"
             },
             {
                 "id": 33,
+                "materialGroup": {
+                    "$oid": "646283e188646e3987815819"
+                },
                 "name": "sabbia",
                 "image": "/images/bathroom-furniture/materials/nov/sabbia.jpg"
             },
             {
                 "id": 34,
+                "materialGroup": {
+                    "$oid": "646283e188646e3987815819"
+                },
                 "name": "terracotta",
                 "image": "/images/bathroom-furniture/materials/nov/terracotta.jpg"
             },
             {
                 "id": 35,
+                "materialGroup": {
+                    "$oid": "646283e188646e3987815819"
+                },
                 "name": "tortora",
                 "image": "/images/bathroom-furniture/materials/nov/tortora.jpg"
             },
             {
-                "id": 33,
+                "id": 36,
+                "materialGroup": {
+                    "$oid": "646283e188646e3987815819"
+                },
                 "name": "verde salvia",
                 "image": "/images/bathroom-furniture/materials/nov/verde_salvia.jpg"
             },
             {
-                "id": 33,
+                "id": 37,
+                "materialGroup": {
+                    "$oid": "646283e188646e3987815819"
+                },
                 "name": "verderame",
                 "image": "/images/bathroom-furniture/materials/nov/verderame.jpg"
             }
@@ -289,21 +442,33 @@
         "items": [
             {
                 "id": 1,
+                "materialGroup": {
+                    "$oid": "646283f688646e398781581b"
+                },
                 "name": "cemento grigio chiaro",
                 "image": "/images/bathroom-furniture/materials/nov/cemento_grigio_chiaro.jpg"
             },
             {
                 "id": 2,
+                "materialGroup": {
+                    "$oid": "646283f688646e398781581b"
+                },
                 "name": "cemento grigio scuro",
                 "image": "/images/bathroom-furniture/materials/nov/cemento_grigio_scuro.jpg"
             },
             {
                 "id": 3,
+                "materialGroup": {
+                    "$oid": "646283f688646e398781581b"
+                },
                 "name": "cemento beige",
                 "image": "/images/bathroom-furniture/materials/nov/cemento_beige.jpg"
             },
             {
                 "id": 4,
+                "materialGroup": {
+                    "$oid": "646283f688646e398781581b"
+                },
                 "name": "cemento bianco",
                 "image": "/images/bathroom-furniture/materials/nov/cemento_bianco.jpg"
             }
@@ -316,79 +481,124 @@
         "items": [
             {
                 "id": 1,
+                "materialGroup": {
+                    "$oid": "6462840788646e398781581d"
+                },
                 "name": "statuario bianco venato",
                 "image": "/images/bathroom-furniture/materials/nov/statuario_bianco_venato.jpg"
             },
             {
                 "id": 2,
+                "materialGroup": {
+                    "$oid": "6462840788646e398781581d"
+                },
                 "name": "emperador extra",
                 "image": "/images/bathroom-furniture/materials/nov/emperador_extra.jpg"
             },
             {
                 "id": 3,
+                "materialGroup": {
+                    "$oid": "6462840788646e398781581d"
+                },
                 "name": "focos sale",
                 "image": "/images/bathroom-furniture/materials/nov/focos_sale.jpg"
             },
             {
                 "id": 4,
+                "materialGroup": {
+                    "$oid": "6462840788646e398781581d"
+                },
                 "name": "fokos roccia",
                 "image": "/images/bathroom-furniture/materials/nov/fokos-roccia.jpg"
             },
             {
                 "id": 5,
+                "materialGroup": {
+                    "$oid": "6462840788646e398781581d"
+                },
                 "name": "iseo gris",
                 "image": "/images/bathroom-furniture/materials/nov/iseo_gris.jpg"
             },
             {
                 "id": 6,
+                "materialGroup": {
+                    "$oid": "6462840788646e398781581d"
+                },
                 "name": "meteora gris",
                 "image": "/images/bathroom-furniture/materials/nov/meteora-gris.jpg"
             },
             {
                 "id": 7,
+                "materialGroup": {
+                    "$oid": "6462840788646e398781581d"
+                },
                 "name": "noir desir",
                 "image": "/images/bathroom-furniture/materials/nov/noir_desir.jpg"
             },
             {
                 "id": 8,
+                "materialGroup": {
+                    "$oid": "6462840788646e398781581d"
+                },
                 "name": "oxide bianco",
                 "image": "/images/bathroom-furniture/materials/nov/oxide-bianco.jpg"
             },
             {
                 "id": 9,
+                "materialGroup": {
+                    "$oid": "6462840788646e398781581d"
+                },
                 "name": "pietra piasentina grigio",
                 "image": "/images/bathroom-furniture/materials/nov/pietra_piasentina_grigio.jpg"
             },
             {
                 "id": 10,
+                "materialGroup": {
+                    "$oid": "6462840788646e398781581d"
+                },
                 "name": "pietra piasentina taupe",
                 "image": "/images/bathroom-furniture/materials/nov/pietra_piasentina_taupe.jpg"
             },
             {
                 "id": 11,
+                "materialGroup": {
+                    "$oid": "6462840788646e398781581d"
+                },
                 "name": "pietra savoia perla",
                 "image": "/images/bathroom-furniture/materials/nov/pietra_savoia_perla.jpg"
             },
             {
                 "id": 12,
+                "materialGroup": {
+                    "$oid": "6462840788646e398781581d"
+                },
                 "name": "pietra di savoia grigia",
                 "image": "/images/bathroom-furniture/materials/nov/pietra_di_savoia_grigia.jpg"
             },
             {
                 "id": 13,
+                "materialGroup": {
+                    "$oid": "6462840788646e398781581d"
+                },
                 "name": "pietra di savoia antracite",
                 "image": "/images/bathroom-furniture/materials/nov/pietra-di-savoia-antracite.jpg"
             },
             {
                 "id": 14,
+                "materialGroup": {
+                    "$oid": "6462840788646e398781581d"
+                },
                 "name": "porfido marrone",
                 "image": "/images/bathroom-furniture/materials/nov/porfido_marrone.jpg"
             },
             {
                 "id": 15,
+                "materialGroup": {
+                    "$oid": "6462840788646e398781581d"
+                },
                 "name": "silk negro",
                 "image": "/images/bathroom-furniture/materials/nov/silk_negro.jpg"
-            } 
+            }
         ]
     },
     {
@@ -398,44 +608,68 @@
         "items": [
             {
                 "id": 1,
+                "materialGroup": {
+                    "$oid": "6462841c88646e398781581f"
+                },
                 "name": "HPL skin",
                 "image": "/images/bathroom-furniture/materials/nov/hpl_skin_1.jpg"
             },
             {
                 "id": 2,
+                "materialGroup": {
+                    "$oid": "6462841c88646e398781581f"
+                },
                 "name": "HPL Tabacco",
                 "image": "/images/bathroom-furniture/materials/nov/hpl_tabacco_1.jpg"
             },
             {
                 "id": 3,
+                "materialGroup": {
+                    "$oid": "6462841c88646e398781581f"
+                },
                 "name": "HPL Barrique",
                 "image": "/images/bathroom-furniture/materials/nov/hpl_barrique_1.jpg"
             },
             {
                 "id": 4,
+                "materialGroup": {
+                    "$oid": "6462841c88646e398781581f"
+                },
                 "name": "HPL Bianco Stone",
                 "image": "/images/bathroom-furniture/materials/nov/hpl_bianco_stone_1.jpg"
             },
             {
                 "id": 5,
+                "materialGroup": {
+                    "$oid": "6462841c88646e398781581f"
+                },
                 "name": "HPL portland",
                 "image": "/images/bathroom-furniture/materials/nov/hpl_portland_1.jpg"
             },
             {
                 "id": 6,
+                "materialGroup": {
+                    "$oid": "6462841c88646e398781581f"
+                },
                 "name": "HPL Rovere Bruciato",
                 "image": "/images/bathroom-furniture/materials/nov/hpl_rovere_bruciato_1.jpg"
             },
             {
                 "id": 7,
+                "materialGroup": {
+                    "$oid": "6462841c88646e398781581f"
+                },
                 "name": "HPL Rovere Monet",
                 "image": "/images/bathroom-furniture/materials/nov/hpl_rovere_monet.jpg"
             },
             {
                 "id": 8,
+                "materialGroup": {
+                    "$oid": "6462841c88646e398781581f"
+                },
                 "name": "HPL Rovere Naturale",
                 "image": "/images/bathroom-furniture/materials/nov/hpl_rovere_naturale_1.jpg"
-            } 
+            }
         ]
     }
 ]

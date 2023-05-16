@@ -4,6 +4,7 @@ const webpack = require("webpack");
 const nextConfig = {
   experimental: {
     appDir: true,
+    serverComponentsExternalPackages: ["mongoose"],
   },
   reactStrictMode: false,
   webpack: (config, { buildId, dev, isServer, defaultLoaders, webpack }) => {
@@ -15,6 +16,13 @@ const nextConfig = {
       })
     );
     return config;
+  },
+  webpack(config) {
+    config.experiments = {
+      ...config.experiments,
+      topLevelAwait: true,
+    }
+    return config
   },
   images: {
     remotePatterns: [

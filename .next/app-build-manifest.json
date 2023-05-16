@@ -1,22 +1,5 @@
 {
   "pages": {
-    "/bathroom-furniture/composition-configurator/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/bathroom-furniture/composition-configurator/page.js"
-    ],
-    "/bathroom-furniture/composition-configurator/layout": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/css/app/bathroom-furniture/composition-configurator/layout.css",
-      "static/chunks/app/bathroom-furniture/composition-configurator/layout.js"
-    ],
-    "/bathroom-furniture/layout": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/css/app/bathroom-furniture/layout.css",
-      "static/chunks/app/bathroom-furniture/layout.js"
-    ],
     "/layout": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
@@ -28,17 +11,21 @@
       "static/chunks/main-app.js",
       "static/chunks/app/loading.js"
     ],
-    "/page": [
+    "/bathroom-furniture/layout": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/css/app/page.css",
-      "static/chunks/app/page.js"
+      "static/css/app/bathroom-furniture/layout.css",
+      "static/chunks/app/bathroom-furniture/layout.js"
     ],
-    "/bathroom-furniture/[...slug]/page": [
+    "/bathroom-furniture/composition-configurator/layout": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/css/app/bathroom-furniture/[...slug]/page.css",
-      "static/chunks/app/bathroom-furniture/[...slug]/page.js"
+      "static/chunks/app/bathroom-furniture/composition-configurator/layout.js"
+    ],
+    "/bathroom-furniture/composition-configurator/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/bathroom-furniture/composition-configurator/page.js"
     ]
   }
 }

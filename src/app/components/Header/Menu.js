@@ -7,43 +7,43 @@ import { AnimatePresence, motion } from "framer-motion";
 
 const data = [
   {
-    "image": "https://st.bork.ru/images/catalog/blur/kitchen.jpg",
+    "image": "/images/menu/blur/bathroom-furniture-blur.jpg",//"https://st.bork.ru/images/catalog/blur/kitchen.jpg",
     "caption": "Мебель для ванной"
   },
   {
-    "image": "https://st.bork.ru/images/catalog/blur/home-and-climate.jpg",
+    "image": "/images/menu/blur/bathroom-furniture-blur.jpg",//"https://st.bork.ru/images/catalog/blur/home-and-climate.jpg",
     "caption": "Смесители"
   },
   {
-    "image": "https://st.bork.ru/images/catalog/blur/new.jpg",
+    "image": "/images/menu/blur/bathroom-furniture-blur.jpg",//"https://st.bork.ru/images/catalog/blur/new.jpg",
     "caption": "Керамогранит"
   },
   {
-    "image": "https://st.bork.ru/images/catalog/blur/kit.jpg",
+    "image": "/images/menu/blur/bathroom-furniture-blur.jpg",//"https://st.bork.ru/images/catalog/blur/kit.jpg",
     "caption": "Инженерная доска"
   },
   {
-    "image": "https://st.bork.ru/images/catalog/blur/kit.jpg",
+    "image": "/images/menu/blur/bathroom-furniture-blur.jpg",//"https://st.bork.ru/images/catalog/blur/kit.jpg",
     "caption": "Душевые системы"
   },
   {
-    "image": "https://st.bork.ru/images/catalog/blur/beauty.jpg",
+    "image": "/images/menu/blur/bathroom-furniture-blur.jpg",//"https://st.bork.ru/images/catalog/blur/beauty.jpg",
     "caption": "Сантехника"
   },
   {
-    "image": "https://st.bork.ru/images/catalog/blur/bork-home.jpg",
+    "image": "/images/menu/blur/bathroom-furniture-blur.jpg",//"https://st.bork.ru/images/catalog/blur/bork-home.jpg",
     "caption": "Душевые ограждения"
   },
   {
-    "image": "https://st.bork.ru/images/catalog/blur/gift-ideas.jpg",
+    "image": "/images/menu/blur/bathroom-furniture-blur.jpg",//"https://st.bork.ru/images/catalog/blur/gift-ideas.jpg",
     "caption": "Ванны"
   },
   {
-    "image": "https://st.bork.ru/images/catalog/blur/kit.jpg",
+    "image": "/images/menu/blur/bathroom-furniture-blur.jpg",//"https://st.bork.ru/images/catalog/blur/kit.jpg",
     "caption": "Аксессуары"
   },
   {
-    "image": "/images/menu/blur/dz10-blur.jpg",
+    "image": "/images/menu/blur/bathroom-furniture-blur.jpg",
     "caption": "Душевые кабины"
   },
 ];

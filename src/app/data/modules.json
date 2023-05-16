@@ -10,7 +10,7 @@
         "materials": [
             {
                 "moduleMaterialId":"01",
-                "moduleMaterialType":"BaseMaterial"
+                "moduleMaterialType":"Base Material"
             }
         ],
         "prices": [
@@ -39,7 +39,7 @@
         "materials": [
             {
                 "moduleMaterialId":"01",
-                "moduleMaterialType":"BaseMaterial"
+                "moduleMaterialType":"Base Material"
             }
         ],
         "prices": [
@@ -68,7 +68,7 @@
         "materials": [
             {
                 "moduleMaterialId":"01",
-                "moduleMaterialType":"BaseMaterial"
+                "moduleMaterialType":"Base Material"
             }
         ],
         "prices": [
@@ -97,7 +97,7 @@
         "materials": [
             {
                 "moduleMaterialId":"01",
-                "moduleMaterialType":"BaseMaterial"
+                "moduleMaterialType":"Base Material"
             }
         ],
         "prices": [
@@ -126,11 +126,11 @@
         "materials": [
             {
                 "moduleMaterialId":"01",
-                "moduleMaterialType":"BaseMaterial"
+                "moduleMaterialType":"Base Material"
             },
             {
                 "moduleMaterialId":"02",
-                "moduleMaterialType":"AdditionalMaterial"
+                "moduleMaterialType":"Additional Material"
             }
         ],
         "prices": [
@@ -159,11 +159,11 @@
         "materials": [
             {
                 "moduleMaterialId":"01",
-                "moduleMaterialType":"BaseMaterial"
+                "moduleMaterialType":"Base Material"
             },
             {
                 "moduleMaterialId":"02",
-                "moduleMaterialType":"AdditionalMaterial"
+                "moduleMaterialType":"Additional Material"
             }
         ],
         "prices": [
