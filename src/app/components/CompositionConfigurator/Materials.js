@@ -52,6 +52,7 @@ const Materials = props => {
                                 caption={item.name}
                                 filename={item.image}
                                 group={materialGroup.name}
+                                materialCategoryId={materialGroup.materialCategoryId}
                                 key={item.name}
                                 handleClick={props.handleClick}
                             />)

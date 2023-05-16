@@ -65,7 +65,10 @@ const Module = props => {
                         <p className="pt-1 text-base font-semibold uppercase">{module.article}</p>
                     </div>
                     <div className="w-[20%]">{module.name}</div>
-                    <div className="w-[30%]">{module.description}</div>
+                    <div className="w-[15%]">{module.description}</div>
+                    <div className="w-[15%]">
+                        {module.price}
+                    </div>
                     <div className="w-[15%]">
                         <TrashIcon
                             className="w-8 h-8 cursor-pointer active:scale-90 hover:text-white transition-colors duration-500"
@@ -135,9 +138,11 @@ const CompositionConfigurator = props => {
                                     ...material,
                                     materialId: `${data.caption}`,
                                     materialGroupId: `${data.group}`,
-                                    materialImage: `${data.filename}`
+                                    materialImage: `${data.filename}`,
+                                    materialCategoryId: `${data.materialCategoryId}`
                                 }
                                 : { ...material }),
+                        price: module.prices.filter((priceItem) => priceItem.materialCategoryId === data.materialCategoryId)[0]?.price,
                     }
                     : { ...module }
             )
@@ -146,7 +151,7 @@ const CompositionConfigurator = props => {
         setShowMaterialSelect(false);
     }
 
-    const handleClose = (id, editMaterialId) => {
+    const handleMaterialClose = () => {
         setShowMaterialSelect(false);
     }
 
@@ -178,8 +183,7 @@ const CompositionConfigurator = props => {
             </div>
             <Materials className={`${showMaterialSelect ? "" : "hidden"}`}
                 handleClick={handleMaterialClick}
-                //onClick={(e) => setShowMaterialSelect(false)}
-                handleClose={handleClose}
+                handleClose={handleMaterialClose}
             />
         </div>
     )

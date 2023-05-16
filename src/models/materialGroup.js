@@ -9,6 +9,10 @@ const MaterialGroupSchema = new Schema({
     description: {
         type: String,
         required: [true, "Material Group description is required!"],
+    },
+    materialCategoryId: {
+        type: Number,
+        required: [true, "Material Group materialCategoryId is required!"],
     }
 });
 
