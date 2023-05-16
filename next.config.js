@@ -17,13 +17,13 @@ const nextConfig = {
     );
     return config;
   },
-  webpack(config) {
-    config.experiments = {
-      ...config.experiments,
-      topLevelAwait: true,
-    }
-    return config
-  },
+  // webpack(config) {
+  //   config.experiments = {
+  //     ...config.experiments,
+  //     topLevelAwait: true,
+  //   }
+  //   return config
+  // },
   images: {
     remotePatterns: [
       {

@@ -1,7 +1,7 @@
 {
   "pages": {
     "/page": [
-      "static/chunks/webpack-b2e01f8fd1eea577.js",
+      "static/chunks/webpack-6e61fc16b045a0e8.js",
       "static/chunks/2443530c-c00ee5717a49a3ce.js",
       "static/chunks/139-d72a3fe79528a782.js",
       "static/chunks/main-app-0a5f318c3b9d8c6f.js",
@@ -10,15 +10,15 @@
       "static/chunks/app/page-048bb00d455b24a1.js"
     ],
     "/layout": [
-      "static/chunks/webpack-b2e01f8fd1eea577.js",
+      "static/chunks/webpack-6e61fc16b045a0e8.js",
       "static/chunks/2443530c-c00ee5717a49a3ce.js",
       "static/chunks/139-d72a3fe79528a782.js",
       "static/chunks/main-app-0a5f318c3b9d8c6f.js",
-      "static/css/16b492f1d857319b.css",
-      "static/chunks/app/layout-bab6d330ac713944.js"
+      "static/css/5d3019ae42cf96e8.css",
+      "static/chunks/app/layout-ae8ca6fbbc0edef8.js"
     ],
     "/loading": [
-      "static/chunks/webpack-b2e01f8fd1eea577.js",
+      "static/chunks/webpack-6e61fc16b045a0e8.js",
       "static/chunks/2443530c-c00ee5717a49a3ce.js",
       "static/chunks/139-d72a3fe79528a782.js",
       "static/chunks/main-app-0a5f318c3b9d8c6f.js",
@@ -26,54 +26,56 @@
       "static/chunks/app/loading-865e6ff3e3f946c9.js"
     ],
     "/bathroom-furniture/page": [
-      "static/chunks/webpack-b2e01f8fd1eea577.js",
+      "static/chunks/webpack-6e61fc16b045a0e8.js",
       "static/chunks/2443530c-c00ee5717a49a3ce.js",
       "static/chunks/139-d72a3fe79528a782.js",
       "static/chunks/main-app-0a5f318c3b9d8c6f.js",
+      "static/chunks/78d26ad9-12ee3eec11a5bfbc.js",
       "static/chunks/11-a21976cd52321850.js",
-      "static/chunks/2-ac2ae2959b93640e.js",
+      "static/chunks/2-c40b0f851f4d53c1.js",
       "static/css/fc34cdc4c80c12e6.css",
       "static/chunks/37-5d2cb62bbeda1128.js",
-      "static/chunks/280-ec959c36cf923f18.js",
-      "static/chunks/app/bathroom-furniture/page-4d4b0e16ac43acba.js"
+      "static/chunks/280-069abab77280ce7c.js",
+      "static/chunks/app/bathroom-furniture/page-983307c94fa494b2.js"
     ],
     "/bathroom-furniture/layout": [
-      "static/chunks/webpack-b2e01f8fd1eea577.js",
+      "static/chunks/webpack-6e61fc16b045a0e8.js",
       "static/chunks/2443530c-c00ee5717a49a3ce.js",
       "static/chunks/139-d72a3fe79528a782.js",
       "static/chunks/main-app-0a5f318c3b9d8c6f.js",
       "static/chunks/11-a21976cd52321850.js",
-      "static/chunks/2-ac2ae2959b93640e.js",
+      "static/chunks/2-c40b0f851f4d53c1.js",
       "static/css/c1a7dd9d6b90a494.css",
-      "static/chunks/app/bathroom-furniture/layout-b31b3bde356ddc91.js"
+      "static/chunks/app/bathroom-furniture/layout-30cab8b99096af6c.js"
     ],
     "/bathroom-furniture/[...slug]/page": [
-      "static/chunks/webpack-b2e01f8fd1eea577.js",
+      "static/chunks/webpack-6e61fc16b045a0e8.js",
       "static/chunks/2443530c-c00ee5717a49a3ce.js",
       "static/chunks/139-d72a3fe79528a782.js",
       "static/chunks/main-app-0a5f318c3b9d8c6f.js",
+      "static/chunks/78d26ad9-12ee3eec11a5bfbc.js",
       "static/chunks/11-a21976cd52321850.js",
-      "static/chunks/2-ac2ae2959b93640e.js",
+      "static/chunks/2-c40b0f851f4d53c1.js",
       "static/css/fc34cdc4c80c12e6.css",
       "static/chunks/37-5d2cb62bbeda1128.js",
-      "static/chunks/618-5f893d7e585e36fc.js",
-      "static/chunks/280-ec959c36cf923f18.js",
-      "static/chunks/app/bathroom-furniture/[...slug]/page-ef5f2dd49a364f42.js"
+      "static/chunks/618-a27b1fc802921579.js",
+      "static/chunks/280-069abab77280ce7c.js",
+      "static/chunks/app/bathroom-furniture/[...slug]/page-59bd06f6f74d15cf.js"
+    ],
+    "/bathroom-furniture/composition-configurator/layout": [
+      "static/chunks/webpack-6e61fc16b045a0e8.js",
+      "static/chunks/2443530c-c00ee5717a49a3ce.js",
+      "static/chunks/139-d72a3fe79528a782.js",
+      "static/chunks/main-app-0a5f318c3b9d8c6f.js",
+      "static/chunks/app/bathroom-furniture/composition-configurator/layout-f9dc1b26c59f0e22.js"
     ],
     "/bathroom-furniture/composition-configurator/page": [
-      "static/chunks/webpack-b2e01f8fd1eea577.js",
+      "static/chunks/webpack-6e61fc16b045a0e8.js",
       "static/chunks/2443530c-c00ee5717a49a3ce.js",
       "static/chunks/139-d72a3fe79528a782.js",
       "static/chunks/main-app-0a5f318c3b9d8c6f.js",
       "static/chunks/11-a21976cd52321850.js",
       "static/chunks/app/bathroom-furniture/composition-configurator/page-55a88707fe623270.js"
-    ],
-    "/bathroom-furniture/composition-configurator/layout": [
-      "static/chunks/webpack-b2e01f8fd1eea577.js",
-      "static/chunks/2443530c-c00ee5717a49a3ce.js",
-      "static/chunks/139-d72a3fe79528a782.js",
-      "static/chunks/main-app-0a5f318c3b9d8c6f.js",
-      "static/chunks/app/bathroom-furniture/composition-configurator/layout-f9dc1b26c59f0e22.js"
     ]
   }
 }
