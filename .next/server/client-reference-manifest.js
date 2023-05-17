@@ -747,7 +747,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./node_modules/next/dist/client/image.js",
         "name": "*",
         "chunks": [
-          "app/bathroom-furniture/layout:static/chunks/app/bathroom-furniture/layout.js"
+          "app/bathroom-furniture/[...slug]/page:static/chunks/app/bathroom-furniture/[...slug]/page.js"
         ],
         "async": false
       },
@@ -755,7 +755,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./node_modules/next/dist/client/image.js",
         "name": "",
         "chunks": [
-          "app/bathroom-furniture/layout:static/chunks/app/bathroom-furniture/layout.js"
+          "app/bathroom-furniture/[...slug]/page:static/chunks/app/bathroom-furniture/[...slug]/page.js"
         ],
         "async": false
       },
@@ -763,7 +763,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./node_modules/next/dist/client/image.js",
         "name": "default",
         "chunks": [
-          "app/bathroom-furniture/layout:static/chunks/app/bathroom-furniture/layout.js"
+          "app/bathroom-furniture/[...slug]/page:static/chunks/app/bathroom-furniture/[...slug]/page.js"
         ],
         "async": false
       }
@@ -773,7 +773,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
         "name": "*",
         "chunks": [
-          "app/bathroom-furniture/layout:static/chunks/app/bathroom-furniture/layout.js"
+          "app/bathroom-furniture/[...slug]/page:static/chunks/app/bathroom-furniture/[...slug]/page.js"
         ],
         "async": false
       },
@@ -781,7 +781,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
         "name": "",
         "chunks": [
-          "app/bathroom-furniture/layout:static/chunks/app/bathroom-furniture/layout.js"
+          "app/bathroom-furniture/[...slug]/page:static/chunks/app/bathroom-furniture/[...slug]/page.js"
         ],
         "async": false
       },
@@ -789,7 +789,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
         "name": "default",
         "chunks": [
-          "app/bathroom-furniture/layout:static/chunks/app/bathroom-furniture/layout.js"
+          "app/bathroom-furniture/[...slug]/page:static/chunks/app/bathroom-furniture/[...slug]/page.js"
         ],
         "async": false
       },
@@ -797,7 +797,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
         "name": "defaultHead",
         "chunks": [
-          "app/bathroom-furniture/layout:static/chunks/app/bathroom-furniture/layout.js"
+          "app/bathroom-furniture/[...slug]/page:static/chunks/app/bathroom-furniture/[...slug]/page.js"
         ],
         "async": false
       },
@@ -805,7 +805,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
         "name": "charSet",
         "chunks": [
-          "app/bathroom-furniture/layout:static/chunks/app/bathroom-furniture/layout.js"
+          "app/bathroom-furniture/[...slug]/page:static/chunks/app/bathroom-furniture/[...slug]/page.js"
         ],
         "async": false
       },
@@ -813,7 +813,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
         "name": "name",
         "chunks": [
-          "app/bathroom-furniture/layout:static/chunks/app/bathroom-furniture/layout.js"
+          "app/bathroom-furniture/[...slug]/page:static/chunks/app/bathroom-furniture/[...slug]/page.js"
         ],
         "async": false
       },
@@ -821,7 +821,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
         "name": "content",
         "chunks": [
-          "app/bathroom-furniture/layout:static/chunks/app/bathroom-furniture/layout.js"
+          "app/bathroom-furniture/[...slug]/page:static/chunks/app/bathroom-furniture/[...slug]/page.js"
         ],
         "async": false
       },
@@ -829,7 +829,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
         "name": "\"title\"",
         "chunks": [
-          "app/bathroom-furniture/layout:static/chunks/app/bathroom-furniture/layout.js"
+          "app/bathroom-furniture/[...slug]/page:static/chunks/app/bathroom-furniture/[...slug]/page.js"
         ],
         "async": false
       },
@@ -837,7 +837,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
         "name": "\"base\"",
         "chunks": [
-          "app/bathroom-furniture/layout:static/chunks/app/bathroom-furniture/layout.js"
+          "app/bathroom-furniture/[...slug]/page:static/chunks/app/bathroom-furniture/[...slug]/page.js"
         ],
         "async": false
       },
@@ -845,7 +845,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
         "name": "\"meta\"",
         "chunks": [
-          "app/bathroom-furniture/layout:static/chunks/app/bathroom-furniture/layout.js"
+          "app/bathroom-furniture/[...slug]/page:static/chunks/app/bathroom-furniture/[...slug]/page.js"
         ],
         "async": false
       },
@@ -853,7 +853,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
         "name": "TODO(prateekbh@)",
         "chunks": [
-          "app/bathroom-furniture/layout:static/chunks/app/bathroom-furniture/layout.js"
+          "app/bathroom-furniture/[...slug]/page:static/chunks/app/bathroom-furniture/[...slug]/page.js"
         ],
         "async": false
       },
@@ -861,7 +861,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
         "name": "\"https",
         "chunks": [
-          "app/bathroom-furniture/layout:static/chunks/app/bathroom-furniture/layout.js"
+          "app/bathroom-furniture/[...slug]/page:static/chunks/app/bathroom-furniture/[...slug]/page.js"
         ],
         "async": false
       },
@@ -869,7 +869,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
         "name": "here",
         "chunks": [
-          "app/bathroom-furniture/layout:static/chunks/app/bathroom-furniture/layout.js"
+          "app/bathroom-furniture/[...slug]/page:static/chunks/app/bathroom-furniture/[...slug]/page.js"
         ],
         "async": false
       },
@@ -877,7 +877,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
         "name": "https",
         "chunks": [
-          "app/bathroom-furniture/layout:static/chunks/app/bathroom-furniture/layout.js"
+          "app/bathroom-furniture/[...slug]/page:static/chunks/app/bathroom-furniture/[...slug]/page.js"
         ],
         "async": false
       },
@@ -885,7 +885,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
         "name": "reduceComponentsToState",
         "chunks": [
-          "app/bathroom-furniture/layout:static/chunks/app/bathroom-furniture/layout.js"
+          "app/bathroom-furniture/[...slug]/page:static/chunks/app/bathroom-furniture/[...slug]/page.js"
         ],
         "async": false
       },
@@ -893,7 +893,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
         "name": "headManager",
         "chunks": [
-          "app/bathroom-furniture/layout:static/chunks/app/bathroom-furniture/layout.js"
+          "app/bathroom-furniture/[...slug]/page:static/chunks/app/bathroom-furniture/[...slug]/page.js"
         ],
         "async": false
       },
@@ -901,7 +901,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
         "name": "inAmpMode",
         "chunks": [
-          "app/bathroom-furniture/layout:static/chunks/app/bathroom-furniture/layout.js"
+          "app/bathroom-furniture/[...slug]/page:static/chunks/app/bathroom-furniture/[...slug]/page.js"
         ],
         "async": false
       },
@@ -909,7 +909,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
         "name": "value",
         "chunks": [
-          "app/bathroom-furniture/layout:static/chunks/app/bathroom-furniture/layout.js"
+          "app/bathroom-furniture/[...slug]/page:static/chunks/app/bathroom-furniture/[...slug]/page.js"
         ],
         "async": false
       }
@@ -971,7 +971,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./node_modules/next/dist/client/link.js",
         "name": "*",
         "chunks": [
-          "app/bathroom-furniture/layout:static/chunks/app/bathroom-furniture/layout.js"
+          "app/bathroom-furniture/[...slug]/page:static/chunks/app/bathroom-furniture/[...slug]/page.js"
         ],
         "async": false
       },
@@ -979,7 +979,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./node_modules/next/dist/client/link.js",
         "name": "",
         "chunks": [
-          "app/bathroom-furniture/layout:static/chunks/app/bathroom-furniture/layout.js"
+          "app/bathroom-furniture/[...slug]/page:static/chunks/app/bathroom-furniture/[...slug]/page.js"
         ],
         "async": false
       },
@@ -987,7 +987,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./node_modules/next/dist/client/link.js",
         "name": "default",
         "chunks": [
-          "app/bathroom-furniture/layout:static/chunks/app/bathroom-furniture/layout.js"
+          "app/bathroom-furniture/[...slug]/page:static/chunks/app/bathroom-furniture/[...slug]/page.js"
         ],
         "async": false
       }
@@ -1077,6 +1077,248 @@ self.__RSC_MANIFEST={
         ],
         "async": false
       }
+    },
+    "(app-client)/./node_modules/next/dist/shared/lib/lazy-dynamic/dynamic-no-ssr.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/shared/lib/lazy-dynamic/dynamic-no-ssr.js",
+        "name": "*",
+        "chunks": [
+          "app/bathroom-furniture/[...slug]/page:static/chunks/app/bathroom-furniture/[...slug]/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/shared/lib/lazy-dynamic/dynamic-no-ssr.js",
+        "name": "",
+        "chunks": [
+          "app/bathroom-furniture/[...slug]/page:static/chunks/app/bathroom-furniture/[...slug]/page.js"
+        ],
+        "async": false
+      },
+      "suspense": {
+        "id": "(sc_client)/./node_modules/next/dist/shared/lib/lazy-dynamic/dynamic-no-ssr.js",
+        "name": "suspense",
+        "chunks": [
+          "app/bathroom-furniture/[...slug]/page:static/chunks/app/bathroom-furniture/[...slug]/page.js"
+        ],
+        "async": false
+      },
+      "NoSSR": {
+        "id": "(sc_client)/./node_modules/next/dist/shared/lib/lazy-dynamic/dynamic-no-ssr.js",
+        "name": "NoSSR",
+        "chunks": [
+          "app/bathroom-furniture/[...slug]/page:static/chunks/app/bathroom-furniture/[...slug]/page.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./src/app/components/Collections/CollectionFigure.js": {
+      "*": {
+        "id": "(sc_client)/./src/app/components/Collections/CollectionFigure.js",
+        "name": "*",
+        "chunks": [
+          "app/bathroom-furniture/page:static/chunks/app/bathroom-furniture/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./src/app/components/Collections/CollectionFigure.js",
+        "name": "",
+        "chunks": [
+          "app/bathroom-furniture/page:static/chunks/app/bathroom-furniture/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./src/app/components/Collections/CollectionFigure.js",
+        "name": "default",
+        "chunks": [
+          "app/bathroom-furniture/page:static/chunks/app/bathroom-furniture/page.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./src/app/components/Features/FeatureFigure.js": {
+      "*": {
+        "id": "(sc_client)/./src/app/components/Features/FeatureFigure.js",
+        "name": "*",
+        "chunks": [
+          "app/bathroom-furniture/[...slug]/page:static/chunks/app/bathroom-furniture/[...slug]/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./src/app/components/Features/FeatureFigure.js",
+        "name": "",
+        "chunks": [
+          "app/bathroom-furniture/[...slug]/page:static/chunks/app/bathroom-furniture/[...slug]/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./src/app/components/Features/FeatureFigure.js",
+        "name": "default",
+        "chunks": [
+          "app/bathroom-furniture/[...slug]/page:static/chunks/app/bathroom-furniture/[...slug]/page.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./src/app/components/Materials/Materials.js": {
+      "*": {
+        "id": "(sc_client)/./src/app/components/Materials/Materials.js",
+        "name": "*",
+        "chunks": [
+          "app/bathroom-furniture/[...slug]/page:static/chunks/app/bathroom-furniture/[...slug]/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./src/app/components/Materials/Materials.js",
+        "name": "",
+        "chunks": [
+          "app/bathroom-furniture/[...slug]/page:static/chunks/app/bathroom-furniture/[...slug]/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./src/app/components/Materials/Materials.js",
+        "name": "default",
+        "chunks": [
+          "app/bathroom-furniture/[...slug]/page:static/chunks/app/bathroom-furniture/[...slug]/page.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./src/app/components/Modules.js": {
+      "*": {
+        "id": "(sc_client)/./src/app/components/Modules.js",
+        "name": "*",
+        "chunks": [
+          "app/bathroom-furniture/[...slug]/page:static/chunks/app/bathroom-furniture/[...slug]/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./src/app/components/Modules.js",
+        "name": "",
+        "chunks": [
+          "app/bathroom-furniture/[...slug]/page:static/chunks/app/bathroom-furniture/[...slug]/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./src/app/components/Modules.js",
+        "name": "default",
+        "chunks": [
+          "app/bathroom-furniture/[...slug]/page:static/chunks/app/bathroom-furniture/[...slug]/page.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./src/app/components/Slider.js": {
+      "*": {
+        "id": "(sc_client)/./src/app/components/Slider.js",
+        "name": "*",
+        "chunks": [
+          "app/bathroom-furniture/[...slug]/page:static/chunks/app/bathroom-furniture/[...slug]/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./src/app/components/Slider.js",
+        "name": "",
+        "chunks": [
+          "app/bathroom-furniture/[...slug]/page:static/chunks/app/bathroom-furniture/[...slug]/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./src/app/components/Slider.js",
+        "name": "default",
+        "chunks": [
+          "app/bathroom-furniture/[...slug]/page:static/chunks/app/bathroom-furniture/[...slug]/page.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./src/app/components/Compositions/ColorPalette.js": {
+      "*": {
+        "id": "(sc_client)/./src/app/components/Compositions/ColorPalette.js",
+        "name": "*",
+        "chunks": [
+          "app/bathroom-furniture/[...slug]/page:static/chunks/app/bathroom-furniture/[...slug]/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./src/app/components/Compositions/ColorPalette.js",
+        "name": "",
+        "chunks": [
+          "app/bathroom-furniture/[...slug]/page:static/chunks/app/bathroom-furniture/[...slug]/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./src/app/components/Compositions/ColorPalette.js",
+        "name": "default",
+        "chunks": [
+          "app/bathroom-furniture/[...slug]/page:static/chunks/app/bathroom-furniture/[...slug]/page.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./src/app/components/Compositions/CompositionFigure.js": {
+      "*": {
+        "id": "(sc_client)/./src/app/components/Compositions/CompositionFigure.js",
+        "name": "*",
+        "chunks": [
+          "app/bathroom-furniture/[...slug]/page:static/chunks/app/bathroom-furniture/[...slug]/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./src/app/components/Compositions/CompositionFigure.js",
+        "name": "",
+        "chunks": [
+          "app/bathroom-furniture/[...slug]/page:static/chunks/app/bathroom-furniture/[...slug]/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./src/app/components/Compositions/CompositionFigure.js",
+        "name": "default",
+        "chunks": [
+          "app/bathroom-furniture/[...slug]/page:static/chunks/app/bathroom-furniture/[...slug]/page.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./src/app/components/InteractiveImage/InteractiveImage.js": {
+      "*": {
+        "id": "(sc_client)/./src/app/components/InteractiveImage/InteractiveImage.js",
+        "name": "*",
+        "chunks": [
+          "app/bathroom-furniture/[...slug]/page:static/chunks/app/bathroom-furniture/[...slug]/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./src/app/components/InteractiveImage/InteractiveImage.js",
+        "name": "",
+        "chunks": [
+          "app/bathroom-furniture/[...slug]/page:static/chunks/app/bathroom-furniture/[...slug]/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./src/app/components/InteractiveImage/InteractiveImage.js",
+        "name": "default",
+        "chunks": [
+          "app/bathroom-furniture/[...slug]/page:static/chunks/app/bathroom-furniture/[...slug]/page.js"
+        ],
+        "async": false
+      }
     }
   },
   "edgeSSRModuleMapping": {},
@@ -1086,6 +1328,15 @@ self.__RSC_MANIFEST={
     ],
     "/Volumes/SAY/WORK/dev/next-js-example/my-project/src/app/bathroom-furniture/layout": [
       "static/css/app/bathroom-furniture/layout.css"
+    ],
+    "/Volumes/SAY/WORK/dev/next-js-example/my-project/src/app/page": [
+      "static/css/app/page.css"
+    ],
+    "/Volumes/SAY/WORK/dev/next-js-example/my-project/src/app/bathroom-furniture/page": [
+      "static/css/app/bathroom-furniture/page.css"
+    ],
+    "/Volumes/SAY/WORK/dev/next-js-example/my-project/src/app/bathroom-furniture/[...slug]/page": [
+      "static/css/app/bathroom-furniture/[...slug]/page.css"
     ]
   },
   "clientModules": {
@@ -2789,7 +3040,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/client/image.js",
       "name": "*",
       "chunks": [
-        "app/bathroom-furniture/layout:static/chunks/app/bathroom-furniture/layout.js"
+        "app/bathroom-furniture/[...slug]/page:static/chunks/app/bathroom-furniture/[...slug]/page.js"
       ],
       "async": false
     },
@@ -2797,7 +3048,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/client/image.js",
       "name": "*",
       "chunks": [
-        "app/bathroom-furniture/layout:static/chunks/app/bathroom-furniture/layout.js"
+        "app/bathroom-furniture/[...slug]/page:static/chunks/app/bathroom-furniture/[...slug]/page.js"
       ],
       "async": false
     },
@@ -2805,7 +3056,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/client/image.js",
       "name": "",
       "chunks": [
-        "app/bathroom-furniture/layout:static/chunks/app/bathroom-furniture/layout.js"
+        "app/bathroom-furniture/[...slug]/page:static/chunks/app/bathroom-furniture/[...slug]/page.js"
       ],
       "async": false
     },
@@ -2813,7 +3064,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/client/image.js",
       "name": "",
       "chunks": [
-        "app/bathroom-furniture/layout:static/chunks/app/bathroom-furniture/layout.js"
+        "app/bathroom-furniture/[...slug]/page:static/chunks/app/bathroom-furniture/[...slug]/page.js"
       ],
       "async": false
     },
@@ -2821,7 +3072,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/client/image.js",
       "name": "default",
       "chunks": [
-        "app/bathroom-furniture/layout:static/chunks/app/bathroom-furniture/layout.js"
+        "app/bathroom-furniture/[...slug]/page:static/chunks/app/bathroom-furniture/[...slug]/page.js"
       ],
       "async": false
     },
@@ -2829,7 +3080,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/client/image.js",
       "name": "default",
       "chunks": [
-        "app/bathroom-furniture/layout:static/chunks/app/bathroom-furniture/layout.js"
+        "app/bathroom-furniture/[...slug]/page:static/chunks/app/bathroom-furniture/[...slug]/page.js"
       ],
       "async": false
     },
@@ -2837,7 +3088,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "*",
       "chunks": [
-        "app/bathroom-furniture/layout:static/chunks/app/bathroom-furniture/layout.js"
+        "app/bathroom-furniture/[...slug]/page:static/chunks/app/bathroom-furniture/[...slug]/page.js"
       ],
       "async": false
     },
@@ -2845,7 +3096,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "*",
       "chunks": [
-        "app/bathroom-furniture/layout:static/chunks/app/bathroom-furniture/layout.js"
+        "app/bathroom-furniture/[...slug]/page:static/chunks/app/bathroom-furniture/[...slug]/page.js"
       ],
       "async": false
     },
@@ -2853,7 +3104,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "",
       "chunks": [
-        "app/bathroom-furniture/layout:static/chunks/app/bathroom-furniture/layout.js"
+        "app/bathroom-furniture/[...slug]/page:static/chunks/app/bathroom-furniture/[...slug]/page.js"
       ],
       "async": false
     },
@@ -2861,7 +3112,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "",
       "chunks": [
-        "app/bathroom-furniture/layout:static/chunks/app/bathroom-furniture/layout.js"
+        "app/bathroom-furniture/[...slug]/page:static/chunks/app/bathroom-furniture/[...slug]/page.js"
       ],
       "async": false
     },
@@ -2869,7 +3120,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "default",
       "chunks": [
-        "app/bathroom-furniture/layout:static/chunks/app/bathroom-furniture/layout.js"
+        "app/bathroom-furniture/[...slug]/page:static/chunks/app/bathroom-furniture/[...slug]/page.js"
       ],
       "async": false
     },
@@ -2877,7 +3128,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "default",
       "chunks": [
-        "app/bathroom-furniture/layout:static/chunks/app/bathroom-furniture/layout.js"
+        "app/bathroom-furniture/[...slug]/page:static/chunks/app/bathroom-furniture/[...slug]/page.js"
       ],
       "async": false
     },
@@ -2885,7 +3136,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "defaultHead",
       "chunks": [
-        "app/bathroom-furniture/layout:static/chunks/app/bathroom-furniture/layout.js"
+        "app/bathroom-furniture/[...slug]/page:static/chunks/app/bathroom-furniture/[...slug]/page.js"
       ],
       "async": false
     },
@@ -2893,7 +3144,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "defaultHead",
       "chunks": [
-        "app/bathroom-furniture/layout:static/chunks/app/bathroom-furniture/layout.js"
+        "app/bathroom-furniture/[...slug]/page:static/chunks/app/bathroom-furniture/[...slug]/page.js"
       ],
       "async": false
     },
@@ -2901,7 +3152,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "charSet",
       "chunks": [
-        "app/bathroom-furniture/layout:static/chunks/app/bathroom-furniture/layout.js"
+        "app/bathroom-furniture/[...slug]/page:static/chunks/app/bathroom-furniture/[...slug]/page.js"
       ],
       "async": false
     },
@@ -2909,7 +3160,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "charSet",
       "chunks": [
-        "app/bathroom-furniture/layout:static/chunks/app/bathroom-furniture/layout.js"
+        "app/bathroom-furniture/[...slug]/page:static/chunks/app/bathroom-furniture/[...slug]/page.js"
       ],
       "async": false
     },
@@ -2917,7 +3168,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "name",
       "chunks": [
-        "app/bathroom-furniture/layout:static/chunks/app/bathroom-furniture/layout.js"
+        "app/bathroom-furniture/[...slug]/page:static/chunks/app/bathroom-furniture/[...slug]/page.js"
       ],
       "async": false
     },
@@ -2925,7 +3176,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "name",
       "chunks": [
-        "app/bathroom-furniture/layout:static/chunks/app/bathroom-furniture/layout.js"
+        "app/bathroom-furniture/[...slug]/page:static/chunks/app/bathroom-furniture/[...slug]/page.js"
       ],
       "async": false
     },
@@ -2933,7 +3184,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "content",
       "chunks": [
-        "app/bathroom-furniture/layout:static/chunks/app/bathroom-furniture/layout.js"
+        "app/bathroom-furniture/[...slug]/page:static/chunks/app/bathroom-furniture/[...slug]/page.js"
       ],
       "async": false
     },
@@ -2941,7 +3192,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "content",
       "chunks": [
-        "app/bathroom-furniture/layout:static/chunks/app/bathroom-furniture/layout.js"
+        "app/bathroom-furniture/[...slug]/page:static/chunks/app/bathroom-furniture/[...slug]/page.js"
       ],
       "async": false
     },
@@ -2949,7 +3200,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "\"title\"",
       "chunks": [
-        "app/bathroom-furniture/layout:static/chunks/app/bathroom-furniture/layout.js"
+        "app/bathroom-furniture/[...slug]/page:static/chunks/app/bathroom-furniture/[...slug]/page.js"
       ],
       "async": false
     },
@@ -2957,7 +3208,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "\"title\"",
       "chunks": [
-        "app/bathroom-furniture/layout:static/chunks/app/bathroom-furniture/layout.js"
+        "app/bathroom-furniture/[...slug]/page:static/chunks/app/bathroom-furniture/[...slug]/page.js"
       ],
       "async": false
     },
@@ -2965,7 +3216,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "\"base\"",
       "chunks": [
-        "app/bathroom-furniture/layout:static/chunks/app/bathroom-furniture/layout.js"
+        "app/bathroom-furniture/[...slug]/page:static/chunks/app/bathroom-furniture/[...slug]/page.js"
       ],
       "async": false
     },
@@ -2973,7 +3224,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "\"base\"",
       "chunks": [
-        "app/bathroom-furniture/layout:static/chunks/app/bathroom-furniture/layout.js"
+        "app/bathroom-furniture/[...slug]/page:static/chunks/app/bathroom-furniture/[...slug]/page.js"
       ],
       "async": false
     },
@@ -2981,7 +3232,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "\"meta\"",
       "chunks": [
-        "app/bathroom-furniture/layout:static/chunks/app/bathroom-furniture/layout.js"
+        "app/bathroom-furniture/[...slug]/page:static/chunks/app/bathroom-furniture/[...slug]/page.js"
       ],
       "async": false
     },
@@ -2989,7 +3240,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "\"meta\"",
       "chunks": [
-        "app/bathroom-furniture/layout:static/chunks/app/bathroom-furniture/layout.js"
+        "app/bathroom-furniture/[...slug]/page:static/chunks/app/bathroom-furniture/[...slug]/page.js"
       ],
       "async": false
     },
@@ -2997,7 +3248,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "TODO(prateekbh@)",
       "chunks": [
-        "app/bathroom-furniture/layout:static/chunks/app/bathroom-furniture/layout.js"
+        "app/bathroom-furniture/[...slug]/page:static/chunks/app/bathroom-furniture/[...slug]/page.js"
       ],
       "async": false
     },
@@ -3005,7 +3256,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "TODO(prateekbh@)",
       "chunks": [
-        "app/bathroom-furniture/layout:static/chunks/app/bathroom-furniture/layout.js"
+        "app/bathroom-furniture/[...slug]/page:static/chunks/app/bathroom-furniture/[...slug]/page.js"
       ],
       "async": false
     },
@@ -3013,7 +3264,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "\"https",
       "chunks": [
-        "app/bathroom-furniture/layout:static/chunks/app/bathroom-furniture/layout.js"
+        "app/bathroom-furniture/[...slug]/page:static/chunks/app/bathroom-furniture/[...slug]/page.js"
       ],
       "async": false
     },
@@ -3021,7 +3272,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "\"https",
       "chunks": [
-        "app/bathroom-furniture/layout:static/chunks/app/bathroom-furniture/layout.js"
+        "app/bathroom-furniture/[...slug]/page:static/chunks/app/bathroom-furniture/[...slug]/page.js"
       ],
       "async": false
     },
@@ -3029,7 +3280,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "here",
       "chunks": [
-        "app/bathroom-furniture/layout:static/chunks/app/bathroom-furniture/layout.js"
+        "app/bathroom-furniture/[...slug]/page:static/chunks/app/bathroom-furniture/[...slug]/page.js"
       ],
       "async": false
     },
@@ -3037,7 +3288,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "here",
       "chunks": [
-        "app/bathroom-furniture/layout:static/chunks/app/bathroom-furniture/layout.js"
+        "app/bathroom-furniture/[...slug]/page:static/chunks/app/bathroom-furniture/[...slug]/page.js"
       ],
       "async": false
     },
@@ -3045,7 +3296,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "https",
       "chunks": [
-        "app/bathroom-furniture/layout:static/chunks/app/bathroom-furniture/layout.js"
+        "app/bathroom-furniture/[...slug]/page:static/chunks/app/bathroom-furniture/[...slug]/page.js"
       ],
       "async": false
     },
@@ -3053,7 +3304,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "https",
       "chunks": [
-        "app/bathroom-furniture/layout:static/chunks/app/bathroom-furniture/layout.js"
+        "app/bathroom-furniture/[...slug]/page:static/chunks/app/bathroom-furniture/[...slug]/page.js"
       ],
       "async": false
     },
@@ -3061,7 +3312,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "reduceComponentsToState",
       "chunks": [
-        "app/bathroom-furniture/layout:static/chunks/app/bathroom-furniture/layout.js"
+        "app/bathroom-furniture/[...slug]/page:static/chunks/app/bathroom-furniture/[...slug]/page.js"
       ],
       "async": false
     },
@@ -3069,7 +3320,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "reduceComponentsToState",
       "chunks": [
-        "app/bathroom-furniture/layout:static/chunks/app/bathroom-furniture/layout.js"
+        "app/bathroom-furniture/[...slug]/page:static/chunks/app/bathroom-furniture/[...slug]/page.js"
       ],
       "async": false
     },
@@ -3077,7 +3328,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "headManager",
       "chunks": [
-        "app/bathroom-furniture/layout:static/chunks/app/bathroom-furniture/layout.js"
+        "app/bathroom-furniture/[...slug]/page:static/chunks/app/bathroom-furniture/[...slug]/page.js"
       ],
       "async": false
     },
@@ -3085,7 +3336,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "headManager",
       "chunks": [
-        "app/bathroom-furniture/layout:static/chunks/app/bathroom-furniture/layout.js"
+        "app/bathroom-furniture/[...slug]/page:static/chunks/app/bathroom-furniture/[...slug]/page.js"
       ],
       "async": false
     },
@@ -3093,7 +3344,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "inAmpMode",
       "chunks": [
-        "app/bathroom-furniture/layout:static/chunks/app/bathroom-furniture/layout.js"
+        "app/bathroom-furniture/[...slug]/page:static/chunks/app/bathroom-furniture/[...slug]/page.js"
       ],
       "async": false
     },
@@ -3101,7 +3352,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "inAmpMode",
       "chunks": [
-        "app/bathroom-furniture/layout:static/chunks/app/bathroom-furniture/layout.js"
+        "app/bathroom-furniture/[...slug]/page:static/chunks/app/bathroom-furniture/[...slug]/page.js"
       ],
       "async": false
     },
@@ -3109,7 +3360,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "value",
       "chunks": [
-        "app/bathroom-furniture/layout:static/chunks/app/bathroom-furniture/layout.js"
+        "app/bathroom-furniture/[...slug]/page:static/chunks/app/bathroom-furniture/[...slug]/page.js"
       ],
       "async": false
     },
@@ -3117,7 +3368,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "value",
       "chunks": [
-        "app/bathroom-furniture/layout:static/chunks/app/bathroom-furniture/layout.js"
+        "app/bathroom-furniture/[...slug]/page:static/chunks/app/bathroom-furniture/[...slug]/page.js"
       ],
       "async": false
     },
@@ -3194,7 +3445,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/client/link.js",
       "name": "*",
       "chunks": [
-        "app/bathroom-furniture/layout:static/chunks/app/bathroom-furniture/layout.js"
+        "app/bathroom-furniture/[...slug]/page:static/chunks/app/bathroom-furniture/[...slug]/page.js"
       ],
       "async": false
     },
@@ -3202,7 +3453,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/client/link.js",
       "name": "*",
       "chunks": [
-        "app/bathroom-furniture/layout:static/chunks/app/bathroom-furniture/layout.js"
+        "app/bathroom-furniture/[...slug]/page:static/chunks/app/bathroom-furniture/[...slug]/page.js"
       ],
       "async": false
     },
@@ -3210,7 +3461,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/client/link.js",
       "name": "",
       "chunks": [
-        "app/bathroom-furniture/layout:static/chunks/app/bathroom-furniture/layout.js"
+        "app/bathroom-furniture/[...slug]/page:static/chunks/app/bathroom-furniture/[...slug]/page.js"
       ],
       "async": false
     },
@@ -3218,7 +3469,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/client/link.js",
       "name": "",
       "chunks": [
-        "app/bathroom-furniture/layout:static/chunks/app/bathroom-furniture/layout.js"
+        "app/bathroom-furniture/[...slug]/page:static/chunks/app/bathroom-furniture/[...slug]/page.js"
       ],
       "async": false
     },
@@ -3226,7 +3477,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/client/link.js",
       "name": "default",
       "chunks": [
-        "app/bathroom-furniture/layout:static/chunks/app/bathroom-furniture/layout.js"
+        "app/bathroom-furniture/[...slug]/page:static/chunks/app/bathroom-furniture/[...slug]/page.js"
       ],
       "async": false
     },
@@ -3234,7 +3485,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/client/link.js",
       "name": "default",
       "chunks": [
-        "app/bathroom-furniture/layout:static/chunks/app/bathroom-furniture/layout.js"
+        "app/bathroom-furniture/[...slug]/page:static/chunks/app/bathroom-furniture/[...slug]/page.js"
       ],
       "async": false
     },
@@ -3315,6 +3566,293 @@ self.__RSC_MANIFEST={
       "name": "default",
       "chunks": [
         "app/bathroom-furniture/layout:static/chunks/app/bathroom-furniture/layout.js"
+      ],
+      "async": false
+    },
+    "/Volumes/SAY/WORK/dev/next-js-example/my-project/node_modules/next/font/google/target.css?{\"path\":\"src/app/page.js\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}#": {
+      "id": "null",
+      "name": "default",
+      "chunks": [
+        "static/css/app/page.css"
+      ]
+    },
+    "/Volumes/SAY/WORK/dev/next-js-example/my-project/node_modules/animate.css/animate.css#": {
+      "id": "null",
+      "name": "default",
+      "chunks": [
+        "static/css/app/bathroom-furniture/page.css",
+        "static/css/app/bathroom-furniture/[...slug]/page.css"
+      ]
+    },
+    "/Volumes/SAY/WORK/dev/next-js-example/my-project/node_modules/owl.carousel/dist/assets/owl.carousel.css#": {
+      "id": "null",
+      "name": "default",
+      "chunks": [
+        "static/css/app/bathroom-furniture/page.css",
+        "static/css/app/bathroom-furniture/[...slug]/page.css"
+      ]
+    },
+    "/Volumes/SAY/WORK/dev/next-js-example/my-project/node_modules/owl.carousel/dist/assets/owl.theme.default.css#": {
+      "id": "null",
+      "name": "default",
+      "chunks": [
+        "static/css/app/bathroom-furniture/page.css",
+        "static/css/app/bathroom-furniture/[...slug]/page.css"
+      ]
+    },
+    "/Volumes/SAY/WORK/dev/next-js-example/my-project/node_modules/next/dist/shared/lib/lazy-dynamic/dynamic-no-ssr.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/lazy-dynamic/dynamic-no-ssr.js",
+      "name": "*",
+      "chunks": [
+        "app/bathroom-furniture/[...slug]/page:static/chunks/app/bathroom-furniture/[...slug]/page.js"
+      ],
+      "async": false
+    },
+    "/Volumes/SAY/WORK/dev/next-js-example/my-project/node_modules/next/dist/esm/shared/lib/lazy-dynamic/dynamic-no-ssr.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/lazy-dynamic/dynamic-no-ssr.js",
+      "name": "*",
+      "chunks": [
+        "app/bathroom-furniture/[...slug]/page:static/chunks/app/bathroom-furniture/[...slug]/page.js"
+      ],
+      "async": false
+    },
+    "/Volumes/SAY/WORK/dev/next-js-example/my-project/node_modules/next/dist/shared/lib/lazy-dynamic/dynamic-no-ssr.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/lazy-dynamic/dynamic-no-ssr.js",
+      "name": "",
+      "chunks": [
+        "app/bathroom-furniture/[...slug]/page:static/chunks/app/bathroom-furniture/[...slug]/page.js"
+      ],
+      "async": false
+    },
+    "/Volumes/SAY/WORK/dev/next-js-example/my-project/node_modules/next/dist/esm/shared/lib/lazy-dynamic/dynamic-no-ssr.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/lazy-dynamic/dynamic-no-ssr.js",
+      "name": "",
+      "chunks": [
+        "app/bathroom-furniture/[...slug]/page:static/chunks/app/bathroom-furniture/[...slug]/page.js"
+      ],
+      "async": false
+    },
+    "/Volumes/SAY/WORK/dev/next-js-example/my-project/node_modules/next/dist/shared/lib/lazy-dynamic/dynamic-no-ssr.js#suspense": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/lazy-dynamic/dynamic-no-ssr.js",
+      "name": "suspense",
+      "chunks": [
+        "app/bathroom-furniture/[...slug]/page:static/chunks/app/bathroom-furniture/[...slug]/page.js"
+      ],
+      "async": false
+    },
+    "/Volumes/SAY/WORK/dev/next-js-example/my-project/node_modules/next/dist/esm/shared/lib/lazy-dynamic/dynamic-no-ssr.js#suspense": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/lazy-dynamic/dynamic-no-ssr.js",
+      "name": "suspense",
+      "chunks": [
+        "app/bathroom-furniture/[...slug]/page:static/chunks/app/bathroom-furniture/[...slug]/page.js"
+      ],
+      "async": false
+    },
+    "/Volumes/SAY/WORK/dev/next-js-example/my-project/node_modules/next/dist/shared/lib/lazy-dynamic/dynamic-no-ssr.js#NoSSR": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/lazy-dynamic/dynamic-no-ssr.js",
+      "name": "NoSSR",
+      "chunks": [
+        "app/bathroom-furniture/[...slug]/page:static/chunks/app/bathroom-furniture/[...slug]/page.js"
+      ],
+      "async": false
+    },
+    "/Volumes/SAY/WORK/dev/next-js-example/my-project/node_modules/next/dist/esm/shared/lib/lazy-dynamic/dynamic-no-ssr.js#NoSSR": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/lazy-dynamic/dynamic-no-ssr.js",
+      "name": "NoSSR",
+      "chunks": [
+        "app/bathroom-furniture/[...slug]/page:static/chunks/app/bathroom-furniture/[...slug]/page.js"
+      ],
+      "async": false
+    },
+    "/Volumes/SAY/WORK/dev/next-js-example/my-project/src/app/components/Collections/CollectionFigure.js": {
+      "id": "(app-client)/./src/app/components/Collections/CollectionFigure.js",
+      "name": "*",
+      "chunks": [
+        "app/bathroom-furniture/page:static/chunks/app/bathroom-furniture/page.js"
+      ],
+      "async": false
+    },
+    "/Volumes/SAY/WORK/dev/next-js-example/my-project/src/app/components/Collections/CollectionFigure.js#": {
+      "id": "(app-client)/./src/app/components/Collections/CollectionFigure.js",
+      "name": "",
+      "chunks": [
+        "app/bathroom-furniture/page:static/chunks/app/bathroom-furniture/page.js"
+      ],
+      "async": false
+    },
+    "/Volumes/SAY/WORK/dev/next-js-example/my-project/src/app/components/Collections/CollectionFigure.js#default": {
+      "id": "(app-client)/./src/app/components/Collections/CollectionFigure.js",
+      "name": "default",
+      "chunks": [
+        "app/bathroom-furniture/page:static/chunks/app/bathroom-furniture/page.js"
+      ],
+      "async": false
+    },
+    "/Volumes/SAY/WORK/dev/next-js-example/my-project/src/app/components/Features/FeatureFigure.js": {
+      "id": "(app-client)/./src/app/components/Features/FeatureFigure.js",
+      "name": "*",
+      "chunks": [
+        "app/bathroom-furniture/[...slug]/page:static/chunks/app/bathroom-furniture/[...slug]/page.js"
+      ],
+      "async": false
+    },
+    "/Volumes/SAY/WORK/dev/next-js-example/my-project/src/app/components/Features/FeatureFigure.js#": {
+      "id": "(app-client)/./src/app/components/Features/FeatureFigure.js",
+      "name": "",
+      "chunks": [
+        "app/bathroom-furniture/[...slug]/page:static/chunks/app/bathroom-furniture/[...slug]/page.js"
+      ],
+      "async": false
+    },
+    "/Volumes/SAY/WORK/dev/next-js-example/my-project/src/app/components/Features/FeatureFigure.js#default": {
+      "id": "(app-client)/./src/app/components/Features/FeatureFigure.js",
+      "name": "default",
+      "chunks": [
+        "app/bathroom-furniture/[...slug]/page:static/chunks/app/bathroom-furniture/[...slug]/page.js"
+      ],
+      "async": false
+    },
+    "/Volumes/SAY/WORK/dev/next-js-example/my-project/src/app/components/Materials/Materials.js": {
+      "id": "(app-client)/./src/app/components/Materials/Materials.js",
+      "name": "*",
+      "chunks": [
+        "app/bathroom-furniture/[...slug]/page:static/chunks/app/bathroom-furniture/[...slug]/page.js"
+      ],
+      "async": false
+    },
+    "/Volumes/SAY/WORK/dev/next-js-example/my-project/src/app/components/Materials/Materials.js#": {
+      "id": "(app-client)/./src/app/components/Materials/Materials.js",
+      "name": "",
+      "chunks": [
+        "app/bathroom-furniture/[...slug]/page:static/chunks/app/bathroom-furniture/[...slug]/page.js"
+      ],
+      "async": false
+    },
+    "/Volumes/SAY/WORK/dev/next-js-example/my-project/src/app/components/Materials/Materials.js#default": {
+      "id": "(app-client)/./src/app/components/Materials/Materials.js",
+      "name": "default",
+      "chunks": [
+        "app/bathroom-furniture/[...slug]/page:static/chunks/app/bathroom-furniture/[...slug]/page.js"
+      ],
+      "async": false
+    },
+    "/Volumes/SAY/WORK/dev/next-js-example/my-project/src/app/components/Modules.js": {
+      "id": "(app-client)/./src/app/components/Modules.js",
+      "name": "*",
+      "chunks": [
+        "app/bathroom-furniture/[...slug]/page:static/chunks/app/bathroom-furniture/[...slug]/page.js"
+      ],
+      "async": false
+    },
+    "/Volumes/SAY/WORK/dev/next-js-example/my-project/src/app/components/Modules.js#": {
+      "id": "(app-client)/./src/app/components/Modules.js",
+      "name": "",
+      "chunks": [
+        "app/bathroom-furniture/[...slug]/page:static/chunks/app/bathroom-furniture/[...slug]/page.js"
+      ],
+      "async": false
+    },
+    "/Volumes/SAY/WORK/dev/next-js-example/my-project/src/app/components/Modules.js#default": {
+      "id": "(app-client)/./src/app/components/Modules.js",
+      "name": "default",
+      "chunks": [
+        "app/bathroom-furniture/[...slug]/page:static/chunks/app/bathroom-furniture/[...slug]/page.js"
+      ],
+      "async": false
+    },
+    "/Volumes/SAY/WORK/dev/next-js-example/my-project/src/app/components/Slider.js": {
+      "id": "(app-client)/./src/app/components/Slider.js",
+      "name": "*",
+      "chunks": [
+        "app/bathroom-furniture/[...slug]/page:static/chunks/app/bathroom-furniture/[...slug]/page.js"
+      ],
+      "async": false
+    },
+    "/Volumes/SAY/WORK/dev/next-js-example/my-project/src/app/components/Slider.js#": {
+      "id": "(app-client)/./src/app/components/Slider.js",
+      "name": "",
+      "chunks": [
+        "app/bathroom-furniture/[...slug]/page:static/chunks/app/bathroom-furniture/[...slug]/page.js"
+      ],
+      "async": false
+    },
+    "/Volumes/SAY/WORK/dev/next-js-example/my-project/src/app/components/Slider.js#default": {
+      "id": "(app-client)/./src/app/components/Slider.js",
+      "name": "default",
+      "chunks": [
+        "app/bathroom-furniture/[...slug]/page:static/chunks/app/bathroom-furniture/[...slug]/page.js"
+      ],
+      "async": false
+    },
+    "/Volumes/SAY/WORK/dev/next-js-example/my-project/src/app/components/Compositions/ColorPalette.js": {
+      "id": "(app-client)/./src/app/components/Compositions/ColorPalette.js",
+      "name": "*",
+      "chunks": [
+        "app/bathroom-furniture/[...slug]/page:static/chunks/app/bathroom-furniture/[...slug]/page.js"
+      ],
+      "async": false
+    },
+    "/Volumes/SAY/WORK/dev/next-js-example/my-project/src/app/components/Compositions/ColorPalette.js#": {
+      "id": "(app-client)/./src/app/components/Compositions/ColorPalette.js",
+      "name": "",
+      "chunks": [
+        "app/bathroom-furniture/[...slug]/page:static/chunks/app/bathroom-furniture/[...slug]/page.js"
+      ],
+      "async": false
+    },
+    "/Volumes/SAY/WORK/dev/next-js-example/my-project/src/app/components/Compositions/ColorPalette.js#default": {
+      "id": "(app-client)/./src/app/components/Compositions/ColorPalette.js",
+      "name": "default",
+      "chunks": [
+        "app/bathroom-furniture/[...slug]/page:static/chunks/app/bathroom-furniture/[...slug]/page.js"
+      ],
+      "async": false
+    },
+    "/Volumes/SAY/WORK/dev/next-js-example/my-project/src/app/components/Compositions/CompositionFigure.js": {
+      "id": "(app-client)/./src/app/components/Compositions/CompositionFigure.js",
+      "name": "*",
+      "chunks": [
+        "app/bathroom-furniture/[...slug]/page:static/chunks/app/bathroom-furniture/[...slug]/page.js"
+      ],
+      "async": false
+    },
+    "/Volumes/SAY/WORK/dev/next-js-example/my-project/src/app/components/Compositions/CompositionFigure.js#": {
+      "id": "(app-client)/./src/app/components/Compositions/CompositionFigure.js",
+      "name": "",
+      "chunks": [
+        "app/bathroom-furniture/[...slug]/page:static/chunks/app/bathroom-furniture/[...slug]/page.js"
+      ],
+      "async": false
+    },
+    "/Volumes/SAY/WORK/dev/next-js-example/my-project/src/app/components/Compositions/CompositionFigure.js#default": {
+      "id": "(app-client)/./src/app/components/Compositions/CompositionFigure.js",
+      "name": "default",
+      "chunks": [
+        "app/bathroom-furniture/[...slug]/page:static/chunks/app/bathroom-furniture/[...slug]/page.js"
+      ],
+      "async": false
+    },
+    "/Volumes/SAY/WORK/dev/next-js-example/my-project/src/app/components/InteractiveImage/InteractiveImage.js": {
+      "id": "(app-client)/./src/app/components/InteractiveImage/InteractiveImage.js",
+      "name": "*",
+      "chunks": [
+        "app/bathroom-furniture/[...slug]/page:static/chunks/app/bathroom-furniture/[...slug]/page.js"
+      ],
+      "async": false
+    },
+    "/Volumes/SAY/WORK/dev/next-js-example/my-project/src/app/components/InteractiveImage/InteractiveImage.js#": {
+      "id": "(app-client)/./src/app/components/InteractiveImage/InteractiveImage.js",
+      "name": "",
+      "chunks": [
+        "app/bathroom-furniture/[...slug]/page:static/chunks/app/bathroom-furniture/[...slug]/page.js"
+      ],
+      "async": false
+    },
+    "/Volumes/SAY/WORK/dev/next-js-example/my-project/src/app/components/InteractiveImage/InteractiveImage.js#default": {
+      "id": "(app-client)/./src/app/components/InteractiveImage/InteractiveImage.js",
+      "name": "default",
+      "chunks": [
+        "app/bathroom-furniture/[...slug]/page:static/chunks/app/bathroom-furniture/[...slug]/page.js"
       ],
       "async": false
     }

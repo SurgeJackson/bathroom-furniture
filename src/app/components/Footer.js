@@ -217,7 +217,7 @@ const Footer = () => {
           </p>
       </section>
 
-      <div className="flex flex-wrap gap-8 justify-center items-center w-full py-[40px] px-10 text-center font-extralight">
+      <div className="flex flex-wrap gap-8 justify-center items-center w-full py-[40px] px-1 text-center font-extralight">
         <Link className="relative flex flex-col justify-center items-center overflow-hidden w-[160px] h-[85px] bg-[#3a3a3e] rounded-xl hover:bg-[#454449] transition-color duration-500" href="/support/pickup/">
           <MapPinIcon className="w-10 h-10 stroke-[0.5]" />
           <p className="uppercase text-[10px] tracking-widest mt-3">Магазины</p>

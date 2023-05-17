@@ -1,0 +1,590 @@
+[
+    {
+        "article": "DA30",
+        "name": "Тумба под раковину с двумя выдвижными ящиками",
+        "size": {
+            "p": 46,
+            "h": 60,
+            "l": 45
+        },
+        "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjguOTIgMTAwLjkyIj48cGF0aCBmaWxsPSJub25lIiBzdHJva2U9IiMyMzFmMjAiIHN0cm9rZS1saW5lam9pbj0iYmV2ZWwiIHN0cm9rZS1taXRlcmxpbWl0PSIyLjYxIiBzdHJva2Utd2lkdGg9Ii41IiBkPSJNNzQuNiA3LjgzVjEuMjRabTAtNy41Wm01My45OSAxNC40N1pNNTAuNSAzMy42N3Y0LjY1Wm0wIDQuNjVjMCAuNS4zMy45My44MSAxLjA2bTczLjQ2LTI1LjYxdjQuMjFaTTUwLjUgNjYuNjN2NC42NFptMCA0LjY0YzAgLjUuMzMuOTQuODEgMS4wNm03My40Ni0yMy41NnYyLjE2Wk0uMzQgMjAuMjRabTAgNjUuOVptNTMuOTggMTQuNDYgNzQuMjctMTkuOVptMCAwVjcwLjk0Wm0wLTYyLjYgNzQuMjctMTkuOVptNzQuMjctMTkuOXYyOS42NVpNNTIuMiAxMDAuMDMuMzMgODYuMTNaTS4zMyA4Ni4xNHYtNjUuOVpNNTAuNSAzMy42Ny4zMyAyMC4yM1ptNzQuMjctMTkuOUw3NC42LjMzWk01Mi4yIDMzLjIyIDIuMDMgMTkuNzhabTcwLjg3LTE4Ljk5TDcyLjkuOFptLTcwLjg3IDg1LjhWNzAuMzhabTIuMTIuNTctMi4xMi0uNTdaTS4zMyAyMC4yNCA3NC42LjM0Wk01MC41IDMzLjY4bDc0LjI3LTE5LjlaTS4zMyAyMC4yNCA3NC42LjM0Wm0zLjQgMCA3MC44Ny0xOVpNNzIuOSA4LjI5VjI4Wk0xNi4wMyAyMy41MyA3NC42IDcuODNaTTU0LjMyIDM4bC0yLjEyLS41N1ptLTIuMTItLjU3IDc0LjI2LTE5LjlabTc2LjM4LTE5LjMzLTIuMTItLjU3Wk01Mi4yIDM5LjYybC0uODktLjI0Wm0tMS43LTEuMjkgMS43LS40NlptMy44MiAzMi42MSA3NC4yNi0xOS45Wm0tMy44Mi00LjMxIDEuNy0uNDZabTMuODIgNC4zMS0yLjEyLS41NlptLTIuMTItLjU2IDc0LjI2LTE5LjlabTc2LjM4LTE5LjM0LTIuMTItLjU3Wk01Mi4yIDcyLjU3bC0uODktLjI0Wm0tMS43LTEuMyAxLjctLjQ1Wm0zLjgyLTMuNjIgNzQuMjYtMTkuOVptMCAwLTIuMTItLjU3Wm0tMi4xMi0uNTdWMzcuNDNabTIuMTIuNTdWMzcuOTlabTc0LjI2LTE2LjYxVjgwLjdaIi8+PC9zdmc+",
+        "materials": [
+            {
+                "moduleMaterialId": "01",
+                "moduleMaterialType": "Base Material"
+            }
+        ],
+        "prices": [
+            {
+                "materialCategoryId": 3,
+                "price": 632
+            },
+            {
+                "materialCategoryId": 41,
+                "price": 681
+            },
+            {
+                "materialCategoryId": 42,
+                "price": 713
+            },
+            {
+                "materialCategoryId": 2,
+                "price": 713
+            },
+            {
+                "materialCategoryId": 1,
+                "price": 750
+            },
+            {
+                "materialCategoryId": 5,
+                "price": 750
+            }
+        ]
+    },
+    {
+        "article": "DA31",
+        "name": "Тумба под раковину с двумя выдвижными ящиками",
+        "size": {
+            "p": 46,
+            "h": 60,
+            "l": 60
+        },
+        "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjguOTIgMTAwLjkyIj48cGF0aCBmaWxsPSJub25lIiBzdHJva2U9IiMyMzFmMjAiIHN0cm9rZS1saW5lam9pbj0iYmV2ZWwiIHN0cm9rZS1taXRlcmxpbWl0PSIyLjYxIiBzdHJva2Utd2lkdGg9Ii41IiBkPSJNNzQuNiA3LjgzVjEuMjRabTAtNy41Wm01My45OSAxNC40N1pNNTAuNSAzMy42N3Y0LjY1Wm0wIDQuNjVjMCAuNS4zMy45My44MSAxLjA2bTczLjQ2LTI1LjYxdjQuMjFaTTUwLjUgNjYuNjN2NC42NFptMCA0LjY0YzAgLjUuMzMuOTQuODEgMS4wNm03My40Ni0yMy41NnYyLjE2Wk0uMzQgMjAuMjRabTAgNjUuOVptNTMuOTggMTQuNDYgNzQuMjctMTkuOVptMCAwVjcwLjk0Wm0wLTYyLjYgNzQuMjctMTkuOVptNzQuMjctMTkuOXYyOS42NVpNNTIuMiAxMDAuMDMuMzMgODYuMTNaTS4zMyA4Ni4xNHYtNjUuOVpNNTAuNSAzMy42Ny4zMyAyMC4yM1ptNzQuMjctMTkuOUw3NC42LjMzWk01Mi4yIDMzLjIyIDIuMDMgMTkuNzhabTcwLjg3LTE4Ljk5TDcyLjkuOFptLTcwLjg3IDg1LjhWNzAuMzhabTIuMTIuNTctMi4xMi0uNTdaTS4zMyAyMC4yNCA3NC42LjM0Wk01MC41IDMzLjY4bDc0LjI3LTE5LjlaTS4zMyAyMC4yNCA3NC42LjM0Wm0zLjQgMCA3MC44Ny0xOVpNNzIuOSA4LjI5VjI4Wk0xNi4wMyAyMy41MyA3NC42IDcuODNaTTU0LjMyIDM4bC0yLjEyLS41N1ptLTIuMTItLjU3IDc0LjI2LTE5LjlabTc2LjM4LTE5LjMzLTIuMTItLjU3Wk01Mi4yIDM5LjYybC0uODktLjI0Wm0tMS43LTEuMjkgMS43LS40NlptMy44MiAzMi42MSA3NC4yNi0xOS45Wm0tMy44Mi00LjMxIDEuNy0uNDZabTMuODIgNC4zMS0yLjEyLS41NlptLTIuMTItLjU2IDc0LjI2LTE5LjlabTc2LjM4LTE5LjM0LTIuMTItLjU3Wk01Mi4yIDcyLjU3bC0uODktLjI0Wm0tMS43LTEuMyAxLjctLjQ1Wm0zLjgyLTMuNjIgNzQuMjYtMTkuOVptMCAwLTIuMTItLjU3Wm0tMi4xMi0uNTdWMzcuNDNabTIuMTIuNTdWMzcuOTlabTc0LjI2LTE2LjYxVjgwLjdaIi8+PC9zdmc+",
+        "materials": [
+            {
+                "moduleMaterialId": "01",
+                "moduleMaterialType": "Base Material"
+            }
+        ],
+        "prices": [
+            {
+                "materialCategoryId": 3,
+                "price": 687
+            },
+            {
+                "materialCategoryId": 41,
+                "price": 753
+            },
+            {
+                "materialCategoryId": 42,
+                "price": 796
+            },
+            {
+                "materialCategoryId": 2,
+                "price": 796
+            },
+            {
+                "materialCategoryId": 1,
+                "price": 843
+            },
+            {
+                "materialCategoryId": 5,
+                "price": 843
+            }
+        ]
+    },
+    {
+        "article": "DA32",
+        "name": "Тумба под раковину с двумя выдвижными ящиками",
+        "size": {
+            "p": 46,
+            "h": 60,
+            "l": 70
+        },
+        "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjguOTIgMTAwLjkyIj48cGF0aCBmaWxsPSJub25lIiBzdHJva2U9IiMyMzFmMjAiIHN0cm9rZS1saW5lam9pbj0iYmV2ZWwiIHN0cm9rZS1taXRlcmxpbWl0PSIyLjYxIiBzdHJva2Utd2lkdGg9Ii41IiBkPSJNNzQuNiA3LjgzVjEuMjRabTAtNy41Wm01My45OSAxNC40N1pNNTAuNSAzMy42N3Y0LjY1Wm0wIDQuNjVjMCAuNS4zMy45My44MSAxLjA2bTczLjQ2LTI1LjYxdjQuMjFaTTUwLjUgNjYuNjN2NC42NFptMCA0LjY0YzAgLjUuMzMuOTQuODEgMS4wNm03My40Ni0yMy41NnYyLjE2Wk0uMzQgMjAuMjRabTAgNjUuOVptNTMuOTggMTQuNDYgNzQuMjctMTkuOVptMCAwVjcwLjk0Wm0wLTYyLjYgNzQuMjctMTkuOVptNzQuMjctMTkuOXYyOS42NVpNNTIuMiAxMDAuMDMuMzMgODYuMTNaTS4zMyA4Ni4xNHYtNjUuOVpNNTAuNSAzMy42Ny4zMyAyMC4yM1ptNzQuMjctMTkuOUw3NC42LjMzWk01Mi4yIDMzLjIyIDIuMDMgMTkuNzhabTcwLjg3LTE4Ljk5TDcyLjkuOFptLTcwLjg3IDg1LjhWNzAuMzhabTIuMTIuNTctMi4xMi0uNTdaTS4zMyAyMC4yNCA3NC42LjM0Wk01MC41IDMzLjY4bDc0LjI3LTE5LjlaTS4zMyAyMC4yNCA3NC42LjM0Wm0zLjQgMCA3MC44Ny0xOVpNNzIuOSA4LjI5VjI4Wk0xNi4wMyAyMy41MyA3NC42IDcuODNaTTU0LjMyIDM4bC0yLjEyLS41N1ptLTIuMTItLjU3IDc0LjI2LTE5LjlabTc2LjM4LTE5LjMzLTIuMTItLjU3Wk01Mi4yIDM5LjYybC0uODktLjI0Wm0tMS43LTEuMjkgMS43LS40NlptMy44MiAzMi42MSA3NC4yNi0xOS45Wm0tMy44Mi00LjMxIDEuNy0uNDZabTMuODIgNC4zMS0yLjEyLS41NlptLTIuMTItLjU2IDc0LjI2LTE5LjlabTc2LjM4LTE5LjM0LTIuMTItLjU3Wk01Mi4yIDcyLjU3bC0uODktLjI0Wm0tMS43LTEuMyAxLjctLjQ1Wm0zLjgyLTMuNjIgNzQuMjYtMTkuOVptMCAwLTIuMTItLjU3Wm0tMi4xMi0uNTdWMzcuNDNabTIuMTIuNTdWMzcuOTlabTc0LjI2LTE2LjYxVjgwLjdaIi8+PC9zdmc+",
+        "materials": [
+            {
+                "moduleMaterialId": "01",
+                "moduleMaterialType": "Base Material"
+            }
+        ],
+        "prices": [
+            {
+                "materialCategoryId": 3,
+                "price": 724
+            },
+            {
+                "materialCategoryId": 41,
+                "price": 800
+            },
+            {
+                "materialCategoryId": 42,
+                "price": 851
+            },
+            {
+                "materialCategoryId": 2,
+                "price": 851
+            },
+            {
+                "materialCategoryId": 1,
+                "price": 907
+            },
+            {
+                "materialCategoryId": 5,
+                "price": 907
+            }
+        ]
+    },
+    {
+        "article": "DA33",
+        "name": "Тумба под раковину с двумя выдвижными ящиками",
+        "size": {
+            "p": 46,
+            "h": 60,
+            "l": 80
+        },
+        "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjguOTIgMTAwLjkyIj48cGF0aCBmaWxsPSJub25lIiBzdHJva2U9IiMyMzFmMjAiIHN0cm9rZS1saW5lam9pbj0iYmV2ZWwiIHN0cm9rZS1taXRlcmxpbWl0PSIyLjYxIiBzdHJva2Utd2lkdGg9Ii41IiBkPSJNNzQuNiA3LjgzVjEuMjRabTAtNy41Wm01My45OSAxNC40N1pNNTAuNSAzMy42N3Y0LjY1Wm0wIDQuNjVjMCAuNS4zMy45My44MSAxLjA2bTczLjQ2LTI1LjYxdjQuMjFaTTUwLjUgNjYuNjN2NC42NFptMCA0LjY0YzAgLjUuMzMuOTQuODEgMS4wNm03My40Ni0yMy41NnYyLjE2Wk0uMzQgMjAuMjRabTAgNjUuOVptNTMuOTggMTQuNDYgNzQuMjctMTkuOVptMCAwVjcwLjk0Wm0wLTYyLjYgNzQuMjctMTkuOVptNzQuMjctMTkuOXYyOS42NVpNNTIuMiAxMDAuMDMuMzMgODYuMTNaTS4zMyA4Ni4xNHYtNjUuOVpNNTAuNSAzMy42Ny4zMyAyMC4yM1ptNzQuMjctMTkuOUw3NC42LjMzWk01Mi4yIDMzLjIyIDIuMDMgMTkuNzhabTcwLjg3LTE4Ljk5TDcyLjkuOFptLTcwLjg3IDg1LjhWNzAuMzhabTIuMTIuNTctMi4xMi0uNTdaTS4zMyAyMC4yNCA3NC42LjM0Wk01MC41IDMzLjY4bDc0LjI3LTE5LjlaTS4zMyAyMC4yNCA3NC42LjM0Wm0zLjQgMCA3MC44Ny0xOVpNNzIuOSA4LjI5VjI4Wk0xNi4wMyAyMy41MyA3NC42IDcuODNaTTU0LjMyIDM4bC0yLjEyLS41N1ptLTIuMTItLjU3IDc0LjI2LTE5LjlabTc2LjM4LTE5LjMzLTIuMTItLjU3Wk01Mi4yIDM5LjYybC0uODktLjI0Wm0tMS43LTEuMjkgMS43LS40NlptMy44MiAzMi42MSA3NC4yNi0xOS45Wm0tMy44Mi00LjMxIDEuNy0uNDZabTMuODIgNC4zMS0yLjEyLS41NlptLTIuMTItLjU2IDc0LjI2LTE5LjlabTc2LjM4LTE5LjM0LTIuMTItLjU3Wk01Mi4yIDcyLjU3bC0uODktLjI0Wm0tMS43LTEuMyAxLjctLjQ1Wm0zLjgyLTMuNjIgNzQuMjYtMTkuOVptMCAwLTIuMTItLjU3Wm0tMi4xMi0uNTdWMzcuNDNabTIuMTIuNTdWMzcuOTlabTc0LjI2LTE2LjYxVjgwLjdaIi8+PC9zdmc+",
+        "materials": [
+            {
+                "moduleMaterialId": "01",
+                "moduleMaterialType": "Base Material"
+            }
+        ],
+        "prices": [
+            {
+                "materialCategoryId": 3,
+                "price": 762
+            },
+            {
+                "materialCategoryId": 41,
+                "price": 849
+            },
+            {
+                "materialCategoryId": 42,
+                "price": 906
+            },
+            {
+                "materialCategoryId": 2,
+                "price": 906
+            },
+            {
+                "materialCategoryId": 1,
+                "price": 970
+            },
+            {
+                "materialCategoryId": 5,
+                "price": 970
+            }
+        ]
+    },
+    {
+        "article": "DA34",
+        "name": "Тумба под раковину с двумя выдвижными ящиками",
+        "size": {
+            "p": 46,
+            "h": 60,
+            "l": 90
+        },
+        "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjguOTIgMTAwLjkyIj48cGF0aCBmaWxsPSJub25lIiBzdHJva2U9IiMyMzFmMjAiIHN0cm9rZS1saW5lam9pbj0iYmV2ZWwiIHN0cm9rZS1taXRlcmxpbWl0PSIyLjYxIiBzdHJva2Utd2lkdGg9Ii41IiBkPSJNNzQuNiA3LjgzVjEuMjRabTAtNy41Wm01My45OSAxNC40N1pNNTAuNSAzMy42N3Y0LjY1Wm0wIDQuNjVjMCAuNS4zMy45My44MSAxLjA2bTczLjQ2LTI1LjYxdjQuMjFaTTUwLjUgNjYuNjN2NC42NFptMCA0LjY0YzAgLjUuMzMuOTQuODEgMS4wNm03My40Ni0yMy41NnYyLjE2Wk0uMzQgMjAuMjRabTAgNjUuOVptNTMuOTggMTQuNDYgNzQuMjctMTkuOVptMCAwVjcwLjk0Wm0wLTYyLjYgNzQuMjctMTkuOVptNzQuMjctMTkuOXYyOS42NVpNNTIuMiAxMDAuMDMuMzMgODYuMTNaTS4zMyA4Ni4xNHYtNjUuOVpNNTAuNSAzMy42Ny4zMyAyMC4yM1ptNzQuMjctMTkuOUw3NC42LjMzWk01Mi4yIDMzLjIyIDIuMDMgMTkuNzhabTcwLjg3LTE4Ljk5TDcyLjkuOFptLTcwLjg3IDg1LjhWNzAuMzhabTIuMTIuNTctMi4xMi0uNTdaTS4zMyAyMC4yNCA3NC42LjM0Wk01MC41IDMzLjY4bDc0LjI3LTE5LjlaTS4zMyAyMC4yNCA3NC42LjM0Wm0zLjQgMCA3MC44Ny0xOVpNNzIuOSA4LjI5VjI4Wk0xNi4wMyAyMy41MyA3NC42IDcuODNaTTU0LjMyIDM4bC0yLjEyLS41N1ptLTIuMTItLjU3IDc0LjI2LTE5LjlabTc2LjM4LTE5LjMzLTIuMTItLjU3Wk01Mi4yIDM5LjYybC0uODktLjI0Wm0tMS43LTEuMjkgMS43LS40NlptMy44MiAzMi42MSA3NC4yNi0xOS45Wm0tMy44Mi00LjMxIDEuNy0uNDZabTMuODIgNC4zMS0yLjEyLS41NlptLTIuMTItLjU2IDc0LjI2LTE5LjlabTc2LjM4LTE5LjM0LTIuMTItLjU3Wk01Mi4yIDcyLjU3bC0uODktLjI0Wm0tMS43LTEuMyAxLjctLjQ1Wm0zLjgyLTMuNjIgNzQuMjYtMTkuOVptMCAwLTIuMTItLjU3Wm0tMi4xMi0uNTdWMzcuNDNabTIuMTIuNTdWMzcuOTlabTc0LjI2LTE2LjYxVjgwLjdaIi8+PC9zdmc+",
+        "materials": [
+            {
+                "moduleMaterialId": "01",
+                "moduleMaterialType": "Base Material"
+            }
+        ],
+        "prices": [
+            {
+                "materialCategoryId": 3,
+                "price": 798
+            },
+            {
+                "materialCategoryId": 41,
+                "price": 898
+            },
+            {
+                "materialCategoryId": 42,
+                "price": 961
+            },
+            {
+                "materialCategoryId": 2,
+                "price": 961
+            },
+            {
+                "materialCategoryId": 1,
+                "price": 1033
+            },
+            {
+                "materialCategoryId": 5,
+                "price": 1033
+            }
+        ]
+    },
+    {
+        "article": "DA35",
+        "name": "Тумба под раковину с двумя выдвижными ящиками",
+        "size": {
+            "p": 46,
+            "h": 60,
+            "l": 100
+        },
+        "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjguOTIgMTAwLjkyIj48cGF0aCBmaWxsPSJub25lIiBzdHJva2U9IiMyMzFmMjAiIHN0cm9rZS1saW5lam9pbj0iYmV2ZWwiIHN0cm9rZS1taXRlcmxpbWl0PSIyLjYxIiBzdHJva2Utd2lkdGg9Ii41IiBkPSJNNzQuNiA3LjgzVjEuMjRabTAtNy41Wm01My45OSAxNC40N1pNNTAuNSAzMy42N3Y0LjY1Wm0wIDQuNjVjMCAuNS4zMy45My44MSAxLjA2bTczLjQ2LTI1LjYxdjQuMjFaTTUwLjUgNjYuNjN2NC42NFptMCA0LjY0YzAgLjUuMzMuOTQuODEgMS4wNm03My40Ni0yMy41NnYyLjE2Wk0uMzQgMjAuMjRabTAgNjUuOVptNTMuOTggMTQuNDYgNzQuMjctMTkuOVptMCAwVjcwLjk0Wm0wLTYyLjYgNzQuMjctMTkuOVptNzQuMjctMTkuOXYyOS42NVpNNTIuMiAxMDAuMDMuMzMgODYuMTNaTS4zMyA4Ni4xNHYtNjUuOVpNNTAuNSAzMy42Ny4zMyAyMC4yM1ptNzQuMjctMTkuOUw3NC42LjMzWk01Mi4yIDMzLjIyIDIuMDMgMTkuNzhabTcwLjg3LTE4Ljk5TDcyLjkuOFptLTcwLjg3IDg1LjhWNzAuMzhabTIuMTIuNTctMi4xMi0uNTdaTS4zMyAyMC4yNCA3NC42LjM0Wk01MC41IDMzLjY4bDc0LjI3LTE5LjlaTS4zMyAyMC4yNCA3NC42LjM0Wm0zLjQgMCA3MC44Ny0xOVpNNzIuOSA4LjI5VjI4Wk0xNi4wMyAyMy41MyA3NC42IDcuODNaTTU0LjMyIDM4bC0yLjEyLS41N1ptLTIuMTItLjU3IDc0LjI2LTE5LjlabTc2LjM4LTE5LjMzLTIuMTItLjU3Wk01Mi4yIDM5LjYybC0uODktLjI0Wm0tMS43LTEuMjkgMS43LS40NlptMy44MiAzMi42MSA3NC4yNi0xOS45Wm0tMy44Mi00LjMxIDEuNy0uNDZabTMuODIgNC4zMS0yLjEyLS41NlptLTIuMTItLjU2IDc0LjI2LTE5LjlabTc2LjM4LTE5LjM0LTIuMTItLjU3Wk01Mi4yIDcyLjU3bC0uODktLjI0Wm0tMS43LTEuMyAxLjctLjQ1Wm0zLjgyLTMuNjIgNzQuMjYtMTkuOVptMCAwLTIuMTItLjU3Wm0tMi4xMi0uNTdWMzcuNDNabTIuMTIuNTdWMzcuOTlabTc0LjI2LTE2LjYxVjgwLjdaIi8+PC9zdmc+",
+        "materials": [
+            {
+                "moduleMaterialId": "01",
+                "moduleMaterialType": "Base Material"
+            }
+        ],
+        "prices": [
+            {
+                "materialCategoryId": 3,
+                "price": 835
+            },
+            {
+                "materialCategoryId": 41,
+                "price": 946
+            },
+            {
+                "materialCategoryId": 42,
+                "price": 1017
+            },
+            {
+                "materialCategoryId": 2,
+                "price": 1017
+            },
+            {
+                "materialCategoryId": 1,
+                "price": 1098
+            },
+            {
+                "materialCategoryId": 5,
+                "price": 1098
+            }
+        ]
+    },
+    {
+        "article": "DA36",
+        "name": "Тумба под раковину с двумя выдвижными ящиками",
+        "size": {
+            "p": 46,
+            "h": 60,
+            "l": 120
+        },
+        "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjguOTIgMTAwLjkyIj48cGF0aCBmaWxsPSJub25lIiBzdHJva2U9IiMyMzFmMjAiIHN0cm9rZS1saW5lam9pbj0iYmV2ZWwiIHN0cm9rZS1taXRlcmxpbWl0PSIyLjYxIiBzdHJva2Utd2lkdGg9Ii41IiBkPSJNNzQuNiA3LjgzVjEuMjRabTAtNy41Wm01My45OSAxNC40N1pNNTAuNSAzMy42N3Y0LjY1Wm0wIDQuNjVjMCAuNS4zMy45My44MSAxLjA2bTczLjQ2LTI1LjYxdjQuMjFaTTUwLjUgNjYuNjN2NC42NFptMCA0LjY0YzAgLjUuMzMuOTQuODEgMS4wNm03My40Ni0yMy41NnYyLjE2Wk0uMzQgMjAuMjRabTAgNjUuOVptNTMuOTggMTQuNDYgNzQuMjctMTkuOVptMCAwVjcwLjk0Wm0wLTYyLjYgNzQuMjctMTkuOVptNzQuMjctMTkuOXYyOS42NVpNNTIuMiAxMDAuMDMuMzMgODYuMTNaTS4zMyA4Ni4xNHYtNjUuOVpNNTAuNSAzMy42Ny4zMyAyMC4yM1ptNzQuMjctMTkuOUw3NC42LjMzWk01Mi4yIDMzLjIyIDIuMDMgMTkuNzhabTcwLjg3LTE4Ljk5TDcyLjkuOFptLTcwLjg3IDg1LjhWNzAuMzhabTIuMTIuNTctMi4xMi0uNTdaTS4zMyAyMC4yNCA3NC42LjM0Wk01MC41IDMzLjY4bDc0LjI3LTE5LjlaTS4zMyAyMC4yNCA3NC42LjM0Wm0zLjQgMCA3MC44Ny0xOVpNNzIuOSA4LjI5VjI4Wk0xNi4wMyAyMy41MyA3NC42IDcuODNaTTU0LjMyIDM4bC0yLjEyLS41N1ptLTIuMTItLjU3IDc0LjI2LTE5LjlabTc2LjM4LTE5LjMzLTIuMTItLjU3Wk01Mi4yIDM5LjYybC0uODktLjI0Wm0tMS43LTEuMjkgMS43LS40NlptMy44MiAzMi42MSA3NC4yNi0xOS45Wm0tMy44Mi00LjMxIDEuNy0uNDZabTMuODIgNC4zMS0yLjEyLS41NlptLTIuMTItLjU2IDc0LjI2LTE5LjlabTc2LjM4LTE5LjM0LTIuMTItLjU3Wk01Mi4yIDcyLjU3bC0uODktLjI0Wm0tMS43LTEuMyAxLjctLjQ1Wm0zLjgyLTMuNjIgNzQuMjYtMTkuOVptMCAwLTIuMTItLjU3Wm0tMi4xMi0uNTdWMzcuNDNabTIuMTIuNTdWMzcuOTlabTc0LjI2LTE2LjYxVjgwLjdaIi8+PC9zdmc+",
+        "materials": [
+            {
+                "moduleMaterialId": "01",
+                "moduleMaterialType": "Base Material"
+            }
+        ],
+        "prices": [
+            {
+                "materialCategoryId": 3,
+                "price": 908
+            },
+            {
+                "materialCategoryId": 41,
+                "price": 1040
+            },
+            {
+                "materialCategoryId": 42,
+                "price": 1125
+            },
+            {
+                "materialCategoryId": 2,
+                "price": 1125
+            },
+            {
+                "materialCategoryId": 1,
+                "price": 1221
+            },
+            {
+                "materialCategoryId": 5,
+                "price": 1221
+            }
+        ]
+    },
+    {
+        "article": "DA40",
+        "name": "Тумба под раковину с двумя выдвижными ящиками",
+        "size": {
+            "p": 46,
+            "h": 80,
+            "l": 45
+        },
+        "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjguOTIgMTAwLjkyIj48cGF0aCBmaWxsPSJub25lIiBzdHJva2U9IiMyMzFmMjAiIHN0cm9rZS1saW5lam9pbj0iYmV2ZWwiIHN0cm9rZS1taXRlcmxpbWl0PSIyLjYxIiBzdHJva2Utd2lkdGg9Ii41IiBkPSJNNzQuNiA3LjgzVjEuMjRabTAtNy41Wm01My45OSAxNC40N1pNNTAuNSAzMy42N3Y0LjY1Wm0wIDQuNjVjMCAuNS4zMy45My44MSAxLjA2bTczLjQ2LTI1LjYxdjQuMjFaTTUwLjUgNjYuNjN2NC42NFptMCA0LjY0YzAgLjUuMzMuOTQuODEgMS4wNm03My40Ni0yMy41NnYyLjE2Wk0uMzQgMjAuMjRabTAgNjUuOVptNTMuOTggMTQuNDYgNzQuMjctMTkuOVptMCAwVjcwLjk0Wm0wLTYyLjYgNzQuMjctMTkuOVptNzQuMjctMTkuOXYyOS42NVpNNTIuMiAxMDAuMDMuMzMgODYuMTNaTS4zMyA4Ni4xNHYtNjUuOVpNNTAuNSAzMy42Ny4zMyAyMC4yM1ptNzQuMjctMTkuOUw3NC42LjMzWk01Mi4yIDMzLjIyIDIuMDMgMTkuNzhabTcwLjg3LTE4Ljk5TDcyLjkuOFptLTcwLjg3IDg1LjhWNzAuMzhabTIuMTIuNTctMi4xMi0uNTdaTS4zMyAyMC4yNCA3NC42LjM0Wk01MC41IDMzLjY4bDc0LjI3LTE5LjlaTS4zMyAyMC4yNCA3NC42LjM0Wm0zLjQgMCA3MC44Ny0xOVpNNzIuOSA4LjI5VjI4Wk0xNi4wMyAyMy41MyA3NC42IDcuODNaTTU0LjMyIDM4bC0yLjEyLS41N1ptLTIuMTItLjU3IDc0LjI2LTE5LjlabTc2LjM4LTE5LjMzLTIuMTItLjU3Wk01Mi4yIDM5LjYybC0uODktLjI0Wm0tMS43LTEuMjkgMS43LS40NlptMy44MiAzMi42MSA3NC4yNi0xOS45Wm0tMy44Mi00LjMxIDEuNy0uNDZabTMuODIgNC4zMS0yLjEyLS41NlptLTIuMTItLjU2IDc0LjI2LTE5LjlabTc2LjM4LTE5LjM0LTIuMTItLjU3Wk01Mi4yIDcyLjU3bC0uODktLjI0Wm0tMS43LTEuMyAxLjctLjQ1Wm0zLjgyLTMuNjIgNzQuMjYtMTkuOVptMCAwLTIuMTItLjU3Wm0tMi4xMi0uNTdWMzcuNDNabTIuMTIuNTdWMzcuOTlabTc0LjI2LTE2LjYxVjgwLjdaIi8+PC9zdmc+",
+        "materials": [
+            {
+                "moduleMaterialId": "01",
+                "moduleMaterialType": "Base Material"
+            }
+        ],
+        "prices": [
+            {
+                "materialCategoryId": 3,
+                "price": 668
+            },
+            {
+                "materialCategoryId": 41,
+                "price": 733
+            },
+            {
+                "materialCategoryId": 42,
+                "price": 776
+            },
+            {
+                "materialCategoryId": 2,
+                "price": 776
+            },
+            {
+                "materialCategoryId": 1,
+                "price": 825
+            },
+            {
+                "materialCategoryId": 5,
+                "price": 825
+            }
+        ]
+    },
+    {
+        "article": "DA41",
+        "name": "Тумба под раковину с двумя выдвижными ящиками",
+        "size": {
+            "p": 46,
+            "h": 80,
+            "l": 60
+        },
+        "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjguOTIgMTAwLjkyIj48cGF0aCBmaWxsPSJub25lIiBzdHJva2U9IiMyMzFmMjAiIHN0cm9rZS1saW5lam9pbj0iYmV2ZWwiIHN0cm9rZS1taXRlcmxpbWl0PSIyLjYxIiBzdHJva2Utd2lkdGg9Ii41IiBkPSJNNzQuNiA3LjgzVjEuMjRabTAtNy41Wm01My45OSAxNC40N1pNNTAuNSAzMy42N3Y0LjY1Wm0wIDQuNjVjMCAuNS4zMy45My44MSAxLjA2bTczLjQ2LTI1LjYxdjQuMjFaTTUwLjUgNjYuNjN2NC42NFptMCA0LjY0YzAgLjUuMzMuOTQuODEgMS4wNm03My40Ni0yMy41NnYyLjE2Wk0uMzQgMjAuMjRabTAgNjUuOVptNTMuOTggMTQuNDYgNzQuMjctMTkuOVptMCAwVjcwLjk0Wm0wLTYyLjYgNzQuMjctMTkuOVptNzQuMjctMTkuOXYyOS42NVpNNTIuMiAxMDAuMDMuMzMgODYuMTNaTS4zMyA4Ni4xNHYtNjUuOVpNNTAuNSAzMy42Ny4zMyAyMC4yM1ptNzQuMjctMTkuOUw3NC42LjMzWk01Mi4yIDMzLjIyIDIuMDMgMTkuNzhabTcwLjg3LTE4Ljk5TDcyLjkuOFptLTcwLjg3IDg1LjhWNzAuMzhabTIuMTIuNTctMi4xMi0uNTdaTS4zMyAyMC4yNCA3NC42LjM0Wk01MC41IDMzLjY4bDc0LjI3LTE5LjlaTS4zMyAyMC4yNCA3NC42LjM0Wm0zLjQgMCA3MC44Ny0xOVpNNzIuOSA4LjI5VjI4Wk0xNi4wMyAyMy41MyA3NC42IDcuODNaTTU0LjMyIDM4bC0yLjEyLS41N1ptLTIuMTItLjU3IDc0LjI2LTE5LjlabTc2LjM4LTE5LjMzLTIuMTItLjU3Wk01Mi4yIDM5LjYybC0uODktLjI0Wm0tMS43LTEuMjkgMS43LS40NlptMy44MiAzMi42MSA3NC4yNi0xOS45Wm0tMy44Mi00LjMxIDEuNy0uNDZabTMuODIgNC4zMS0yLjEyLS41NlptLTIuMTItLjU2IDc0LjI2LTE5LjlabTc2LjM4LTE5LjM0LTIuMTItLjU3Wk01Mi4yIDcyLjU3bC0uODktLjI0Wm0tMS43LTEuMyAxLjctLjQ1Wm0zLjgyLTMuNjIgNzQuMjYtMTkuOVptMCAwLTIuMTItLjU3Wm0tMi4xMi0uNTdWMzcuNDNabTIuMTIuNTdWMzcuOTlabTc0LjI2LTE2LjYxVjgwLjdaIi8+PC9zdmc+",
+        "materials": [
+            {
+                "moduleMaterialId": "01",
+                "moduleMaterialType": "Base Material"
+            }
+        ],
+        "prices": [
+            {
+                "materialCategoryId": 3,
+                "price": 715
+            },
+            {
+                "materialCategoryId": 41,
+                "price": 805
+            },
+            {
+                "materialCategoryId": 42,
+                "price": 863
+            },
+            {
+                "materialCategoryId": 2,
+                "price": 863
+            },
+            {
+                "materialCategoryId": 1,
+                "price": 927
+            },
+            {
+                "materialCategoryId": 5,
+                "price": 927
+            }
+        ]
+    },
+    {
+        "article": "DA42",
+        "name": "Тумба под раковину с двумя выдвижными ящиками",
+        "size": {
+            "p": 46,
+            "h": 80,
+            "l": 70
+        },
+        "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjguOTIgMTAwLjkyIj48cGF0aCBmaWxsPSJub25lIiBzdHJva2U9IiMyMzFmMjAiIHN0cm9rZS1saW5lam9pbj0iYmV2ZWwiIHN0cm9rZS1taXRlcmxpbWl0PSIyLjYxIiBzdHJva2Utd2lkdGg9Ii41IiBkPSJNNzQuNiA3LjgzVjEuMjRabTAtNy41Wm01My45OSAxNC40N1pNNTAuNSAzMy42N3Y0LjY1Wm0wIDQuNjVjMCAuNS4zMy45My44MSAxLjA2bTczLjQ2LTI1LjYxdjQuMjFaTTUwLjUgNjYuNjN2NC42NFptMCA0LjY0YzAgLjUuMzMuOTQuODEgMS4wNm03My40Ni0yMy41NnYyLjE2Wk0uMzQgMjAuMjRabTAgNjUuOVptNTMuOTggMTQuNDYgNzQuMjctMTkuOVptMCAwVjcwLjk0Wm0wLTYyLjYgNzQuMjctMTkuOVptNzQuMjctMTkuOXYyOS42NVpNNTIuMiAxMDAuMDMuMzMgODYuMTNaTS4zMyA4Ni4xNHYtNjUuOVpNNTAuNSAzMy42Ny4zMyAyMC4yM1ptNzQuMjctMTkuOUw3NC42LjMzWk01Mi4yIDMzLjIyIDIuMDMgMTkuNzhabTcwLjg3LTE4Ljk5TDcyLjkuOFptLTcwLjg3IDg1LjhWNzAuMzhabTIuMTIuNTctMi4xMi0uNTdaTS4zMyAyMC4yNCA3NC42LjM0Wk01MC41IDMzLjY4bDc0LjI3LTE5LjlaTS4zMyAyMC4yNCA3NC42LjM0Wm0zLjQgMCA3MC44Ny0xOVpNNzIuOSA4LjI5VjI4Wk0xNi4wMyAyMy41MyA3NC42IDcuODNaTTU0LjMyIDM4bC0yLjEyLS41N1ptLTIuMTItLjU3IDc0LjI2LTE5LjlabTc2LjM4LTE5LjMzLTIuMTItLjU3Wk01Mi4yIDM5LjYybC0uODktLjI0Wm0tMS43LTEuMjkgMS43LS40NlptMy44MiAzMi42MSA3NC4yNi0xOS45Wm0tMy44Mi00LjMxIDEuNy0uNDZabTMuODIgNC4zMS0yLjEyLS41NlptLTIuMTItLjU2IDc0LjI2LTE5LjlabTc2LjM4LTE5LjM0LTIuMTItLjU3Wk01Mi4yIDcyLjU3bC0uODktLjI0Wm0tMS43LTEuMyAxLjctLjQ1Wm0zLjgyLTMuNjIgNzQuMjYtMTkuOVptMCAwLTIuMTItLjU3Wm0tMi4xMi0uNTdWMzcuNDNabTIuMTIuNTdWMzcuOTlabTc0LjI2LTE2LjYxVjgwLjdaIi8+PC9zdmc+",
+        "materials": [
+            {
+                "moduleMaterialId": "01",
+                "moduleMaterialType": "Base Material"
+            }
+        ],
+        "prices": [
+            {
+                "materialCategoryId": 3,
+                "price": 756
+            },
+            {
+                "materialCategoryId": 41,
+                "price": 860
+            },
+            {
+                "materialCategoryId": 42,
+                "price": 927
+            },
+            {
+                "materialCategoryId": 2,
+                "price": 927
+            },
+            {
+                "materialCategoryId": 1,
+                "price": 1003
+            },
+            {
+                "materialCategoryId": 5,
+                "price": 1003
+            }
+        ]
+    },
+    {
+        "article": "DA43",
+        "name": "Тумба под раковину с двумя выдвижными ящиками",
+        "size": {
+            "p": 46,
+            "h": 80,
+            "l": 80
+        },
+        "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjguOTIgMTAwLjkyIj48cGF0aCBmaWxsPSJub25lIiBzdHJva2U9IiMyMzFmMjAiIHN0cm9rZS1saW5lam9pbj0iYmV2ZWwiIHN0cm9rZS1taXRlcmxpbWl0PSIyLjYxIiBzdHJva2Utd2lkdGg9Ii41IiBkPSJNNzQuNiA3LjgzVjEuMjRabTAtNy41Wm01My45OSAxNC40N1pNNTAuNSAzMy42N3Y0LjY1Wm0wIDQuNjVjMCAuNS4zMy45My44MSAxLjA2bTczLjQ2LTI1LjYxdjQuMjFaTTUwLjUgNjYuNjN2NC42NFptMCA0LjY0YzAgLjUuMzMuOTQuODEgMS4wNm03My40Ni0yMy41NnYyLjE2Wk0uMzQgMjAuMjRabTAgNjUuOVptNTMuOTggMTQuNDYgNzQuMjctMTkuOVptMCAwVjcwLjk0Wm0wLTYyLjYgNzQuMjctMTkuOVptNzQuMjctMTkuOXYyOS42NVpNNTIuMiAxMDAuMDMuMzMgODYuMTNaTS4zMyA4Ni4xNHYtNjUuOVpNNTAuNSAzMy42Ny4zMyAyMC4yM1ptNzQuMjctMTkuOUw3NC42LjMzWk01Mi4yIDMzLjIyIDIuMDMgMTkuNzhabTcwLjg3LTE4Ljk5TDcyLjkuOFptLTcwLjg3IDg1LjhWNzAuMzhabTIuMTIuNTctMi4xMi0uNTdaTS4zMyAyMC4yNCA3NC42LjM0Wk01MC41IDMzLjY4bDc0LjI3LTE5LjlaTS4zMyAyMC4yNCA3NC42LjM0Wm0zLjQgMCA3MC44Ny0xOVpNNzIuOSA4LjI5VjI4Wk0xNi4wMyAyMy41MyA3NC42IDcuODNaTTU0LjMyIDM4bC0yLjEyLS41N1ptLTIuMTItLjU3IDc0LjI2LTE5LjlabTc2LjM4LTE5LjMzLTIuMTItLjU3Wk01Mi4yIDM5LjYybC0uODktLjI0Wm0tMS43LTEuMjkgMS43LS40NlptMy44MiAzMi42MSA3NC4yNi0xOS45Wm0tMy44Mi00LjMxIDEuNy0uNDZabTMuODIgNC4zMS0yLjEyLS41NlptLTIuMTItLjU2IDc0LjI2LTE5LjlabTc2LjM4LTE5LjM0LTIuMTItLjU3Wk01Mi4yIDcyLjU3bC0uODktLjI0Wm0tMS43LTEuMyAxLjctLjQ1Wm0zLjgyLTMuNjIgNzQuMjYtMTkuOVptMCAwLTIuMTItLjU3Wm0tMi4xMi0uNTdWMzcuNDNabTIuMTIuNTdWMzcuOTlabTc0LjI2LTE2LjYxVjgwLjdaIi8+PC9zdmc+",
+        "materials": [
+            {
+                "moduleMaterialId": "01",
+                "moduleMaterialType": "Base Material"
+            }
+        ],
+        "prices": [
+            {
+                "materialCategoryId": 3,
+                "price": 798
+            },
+            {
+                "materialCategoryId": 41,
+                "price": 916
+            },
+            {
+                "materialCategoryId": 42,
+                "price": 992
+            },
+            {
+                "materialCategoryId": 2,
+                "price": 992
+            },
+            {
+                "materialCategoryId": 1,
+                "price": 1078
+            },
+            {
+                "materialCategoryId": 5,
+                "price": 1078
+            }
+        ]
+    },
+    {
+        "article": "DA44",
+        "name": "Тумба под раковину с двумя выдвижными ящиками",
+        "size": {
+            "p": 46,
+            "h": 80,
+            "l": 90
+        },
+        "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjguOTIgMTAwLjkyIj48cGF0aCBmaWxsPSJub25lIiBzdHJva2U9IiMyMzFmMjAiIHN0cm9rZS1saW5lam9pbj0iYmV2ZWwiIHN0cm9rZS1taXRlcmxpbWl0PSIyLjYxIiBzdHJva2Utd2lkdGg9Ii41IiBkPSJNNzQuNiA3LjgzVjEuMjRabTAtNy41Wm01My45OSAxNC40N1pNNTAuNSAzMy42N3Y0LjY1Wm0wIDQuNjVjMCAuNS4zMy45My44MSAxLjA2bTczLjQ2LTI1LjYxdjQuMjFaTTUwLjUgNjYuNjN2NC42NFptMCA0LjY0YzAgLjUuMzMuOTQuODEgMS4wNm03My40Ni0yMy41NnYyLjE2Wk0uMzQgMjAuMjRabTAgNjUuOVptNTMuOTggMTQuNDYgNzQuMjctMTkuOVptMCAwVjcwLjk0Wm0wLTYyLjYgNzQuMjctMTkuOVptNzQuMjctMTkuOXYyOS42NVpNNTIuMiAxMDAuMDMuMzMgODYuMTNaTS4zMyA4Ni4xNHYtNjUuOVpNNTAuNSAzMy42Ny4zMyAyMC4yM1ptNzQuMjctMTkuOUw3NC42LjMzWk01Mi4yIDMzLjIyIDIuMDMgMTkuNzhabTcwLjg3LTE4Ljk5TDcyLjkuOFptLTcwLjg3IDg1LjhWNzAuMzhabTIuMTIuNTctMi4xMi0uNTdaTS4zMyAyMC4yNCA3NC42LjM0Wk01MC41IDMzLjY4bDc0LjI3LTE5LjlaTS4zMyAyMC4yNCA3NC42LjM0Wm0zLjQgMCA3MC44Ny0xOVpNNzIuOSA4LjI5VjI4Wk0xNi4wMyAyMy41MyA3NC42IDcuODNaTTU0LjMyIDM4bC0yLjEyLS41N1ptLTIuMTItLjU3IDc0LjI2LTE5LjlabTc2LjM4LTE5LjMzLTIuMTItLjU3Wk01Mi4yIDM5LjYybC0uODktLjI0Wm0tMS43LTEuMjkgMS43LS40NlptMy44MiAzMi42MSA3NC4yNi0xOS45Wm0tMy44Mi00LjMxIDEuNy0uNDZabTMuODIgNC4zMS0yLjEyLS41NlptLTIuMTItLjU2IDc0LjI2LTE5LjlabTc2LjM4LTE5LjM0LTIuMTItLjU3Wk01Mi4yIDcyLjU3bC0uODktLjI0Wm0tMS43LTEuMyAxLjctLjQ1Wm0zLjgyLTMuNjIgNzQuMjYtMTkuOVptMCAwLTIuMTItLjU3Wm0tMi4xMi0uNTdWMzcuNDNabTIuMTIuNTdWMzcuOTlabTc0LjI2LTE2LjYxVjgwLjdaIi8+PC9zdmc+",
+        "materials": [
+            {
+                "moduleMaterialId": "01",
+                "moduleMaterialType": "Base Material"
+            }
+        ],
+        "prices": [
+            {
+                "materialCategoryId": 3,
+                "price": 839
+            },
+            {
+                "materialCategoryId": 41,
+                "price": 972
+            },
+            {
+                "materialCategoryId": 42,
+                "price": 1058
+            },
+            {
+                "materialCategoryId": 2,
+                "price": 1058
+            },
+            {
+                "materialCategoryId": 1,
+                "price": 1154
+            },
+            {
+                "materialCategoryId": 5,
+                "price": 1154
+            }
+        ]
+    },
+    {
+        "article": "DA45",
+        "name": "Тумба под раковину с двумя выдвижными ящиками",
+        "size": {
+            "p": 46,
+            "h": 80,
+            "l": 100
+        },
+        "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjguOTIgMTAwLjkyIj48cGF0aCBmaWxsPSJub25lIiBzdHJva2U9IiMyMzFmMjAiIHN0cm9rZS1saW5lam9pbj0iYmV2ZWwiIHN0cm9rZS1taXRlcmxpbWl0PSIyLjYxIiBzdHJva2Utd2lkdGg9Ii41IiBkPSJNNzQuNiA3LjgzVjEuMjRabTAtNy41Wm01My45OSAxNC40N1pNNTAuNSAzMy42N3Y0LjY1Wm0wIDQuNjVjMCAuNS4zMy45My44MSAxLjA2bTczLjQ2LTI1LjYxdjQuMjFaTTUwLjUgNjYuNjN2NC42NFptMCA0LjY0YzAgLjUuMzMuOTQuODEgMS4wNm03My40Ni0yMy41NnYyLjE2Wk0uMzQgMjAuMjRabTAgNjUuOVptNTMuOTggMTQuNDYgNzQuMjctMTkuOVptMCAwVjcwLjk0Wm0wLTYyLjYgNzQuMjctMTkuOVptNzQuMjctMTkuOXYyOS42NVpNNTIuMiAxMDAuMDMuMzMgODYuMTNaTS4zMyA4Ni4xNHYtNjUuOVpNNTAuNSAzMy42Ny4zMyAyMC4yM1ptNzQuMjctMTkuOUw3NC42LjMzWk01Mi4yIDMzLjIyIDIuMDMgMTkuNzhabTcwLjg3LTE4Ljk5TDcyLjkuOFptLTcwLjg3IDg1LjhWNzAuMzhabTIuMTIuNTctMi4xMi0uNTdaTS4zMyAyMC4yNCA3NC42LjM0Wk01MC41IDMzLjY4bDc0LjI3LTE5LjlaTS4zMyAyMC4yNCA3NC42LjM0Wm0zLjQgMCA3MC44Ny0xOVpNNzIuOSA4LjI5VjI4Wk0xNi4wMyAyMy41MyA3NC42IDcuODNaTTU0LjMyIDM4bC0yLjEyLS41N1ptLTIuMTItLjU3IDc0LjI2LTE5LjlabTc2LjM4LTE5LjMzLTIuMTItLjU3Wk01Mi4yIDM5LjYybC0uODktLjI0Wm0tMS43LTEuMjkgMS43LS40NlptMy44MiAzMi42MSA3NC4yNi0xOS45Wm0tMy44Mi00LjMxIDEuNy0uNDZabTMuODIgNC4zMS0yLjEyLS41NlptLTIuMTItLjU2IDc0LjI2LTE5LjlabTc2LjM4LTE5LjM0LTIuMTItLjU3Wk01Mi4yIDcyLjU3bC0uODktLjI0Wm0tMS43LTEuMyAxLjctLjQ1Wm0zLjgyLTMuNjIgNzQuMjYtMTkuOVptMCAwLTIuMTItLjU3Wm0tMi4xMi0uNTdWMzcuNDNabTIuMTIuNTdWMzcuOTlabTc0LjI2LTE2LjYxVjgwLjdaIi8+PC9zdmc+",
+        "materials": [
+            {
+                "moduleMaterialId": "01",
+                "moduleMaterialType": "Base Material"
+            }
+        ],
+        "prices": [
+            {
+                "materialCategoryId": 3,
+                "price": 879
+            },
+            {
+                "materialCategoryId": 41,
+                "price": 1027
+            },
+            {
+                "materialCategoryId": 42,
+                "price": 1121
+            },
+            {
+                "materialCategoryId": 2,
+                "price": 1121
+            },
+            {
+                "materialCategoryId": 1,
+                "price": 1230
+            },
+            {
+                "materialCategoryId": 5,
+                "price": 1230
+            }
+        ]
+    },
+    {
+        "article": "DA46",
+        "name": "Тумба под раковину с двумя выдвижными ящиками",
+        "size": {
+            "p": 46,
+            "h": 80,
+            "l": 120
+        },
+        "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjguOTIgMTAwLjkyIj48cGF0aCBmaWxsPSJub25lIiBzdHJva2U9IiMyMzFmMjAiIHN0cm9rZS1saW5lam9pbj0iYmV2ZWwiIHN0cm9rZS1taXRlcmxpbWl0PSIyLjYxIiBzdHJva2Utd2lkdGg9Ii41IiBkPSJNNzQuNiA3LjgzVjEuMjRabTAtNy41Wm01My45OSAxNC40N1pNNTAuNSAzMy42N3Y0LjY1Wm0wIDQuNjVjMCAuNS4zMy45My44MSAxLjA2bTczLjQ2LTI1LjYxdjQuMjFaTTUwLjUgNjYuNjN2NC42NFptMCA0LjY0YzAgLjUuMzMuOTQuODEgMS4wNm03My40Ni0yMy41NnYyLjE2Wk0uMzQgMjAuMjRabTAgNjUuOVptNTMuOTggMTQuNDYgNzQuMjctMTkuOVptMCAwVjcwLjk0Wm0wLTYyLjYgNzQuMjctMTkuOVptNzQuMjctMTkuOXYyOS42NVpNNTIuMiAxMDAuMDMuMzMgODYuMTNaTS4zMyA4Ni4xNHYtNjUuOVpNNTAuNSAzMy42Ny4zMyAyMC4yM1ptNzQuMjctMTkuOUw3NC42LjMzWk01Mi4yIDMzLjIyIDIuMDMgMTkuNzhabTcwLjg3LTE4Ljk5TDcyLjkuOFptLTcwLjg3IDg1LjhWNzAuMzhabTIuMTIuNTctMi4xMi0uNTdaTS4zMyAyMC4yNCA3NC42LjM0Wk01MC41IDMzLjY4bDc0LjI3LTE5LjlaTS4zMyAyMC4yNCA3NC42LjM0Wm0zLjQgMCA3MC44Ny0xOVpNNzIuOSA4LjI5VjI4Wk0xNi4wMyAyMy41MyA3NC42IDcuODNaTTU0LjMyIDM4bC0yLjEyLS41N1ptLTIuMTItLjU3IDc0LjI2LTE5LjlabTc2LjM4LTE5LjMzLTIuMTItLjU3Wk01Mi4yIDM5LjYybC0uODktLjI0Wm0tMS43LTEuMjkgMS43LS40NlptMy44MiAzMi42MSA3NC4yNi0xOS45Wm0tMy44Mi00LjMxIDEuNy0uNDZabTMuODIgNC4zMS0yLjEyLS41NlptLTIuMTItLjU2IDc0LjI2LTE5LjlabTc2LjM4LTE5LjM0LTIuMTItLjU3Wk01Mi4yIDcyLjU3bC0uODktLjI0Wm0tMS43LTEuMyAxLjctLjQ1Wm0zLjgyLTMuNjIgNzQuMjYtMTkuOVptMCAwLTIuMTItLjU3Wm0tMi4xMi0uNTdWMzcuNDNabTIuMTIuNTdWMzcuOTlabTc0LjI2LTE2LjYxVjgwLjdaIi8+PC9zdmc+",
+        "materials": [
+            {
+                "moduleMaterialId": "01",
+                "moduleMaterialType": "Base Material"
+            }
+        ],
+        "prices": [
+            {
+                "materialCategoryId": 3,
+                "price": 960
+            },
+            {
+                "materialCategoryId": 41,
+                "price": 1137
+            },
+            {
+                "materialCategoryId": 42,
+                "price": 1252
+            },
+            {
+                "materialCategoryId": 2,
+                "price": 1252
+            },
+            {
+                "materialCategoryId": 1,
+                "price": 1382
+            },
+            {
+                "materialCategoryId": 5,
+                "price": 1382
+            }
+        ]
+    }
+]
