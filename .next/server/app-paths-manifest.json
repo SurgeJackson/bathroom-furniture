@@ -1,4 +1,7 @@
 {
-  "/bathroom-furniture/page": "app/bathroom-furniture/page.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/page": "app/page.js",
+  "/api/material/route": "app/api/material/route.js",
+  "/api/materialGroup/route": "app/api/materialGroup/route.js",
   "/bathroom-furniture/composition-configurator/page": "app/bathroom-furniture/composition-configurator/page.js"
 }
